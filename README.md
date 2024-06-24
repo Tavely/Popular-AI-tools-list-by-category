@@ -5,16 +5,16 @@ The most popular AI tools list sorted by category 2024
 ## 1、AI Content Generator
 |Category Name|AI Tool Name|Description|Hot|WebSite|
 |:----|:----|:----|:----|:----|
-|AI Content Generator|Gemini & Gemini Advanced(#https://gemini.google.com)|Direct access to Google's AI models on your phone.|414435188|Link(#https://gemini.google.com)|
-|AI Content Generator|Shutterstock(#https://shutterstock.com)|Stock images, photos, vectors, video, and music.|64792170|Link(#https://shutterstock.com)|
-|AI Content Generator|CrushOn.AI(#https://crushon.ai)|Unbounded conversations and authentic interactions.|16831907|Link(#https://crushon.ai)|
-|AI Content Generator|Gamma AI(#https://gamma.app)|Gamma App is an AI-powered tool that creates stunning presentations, webpages, and documents effortlessly.|14101206|Link(#https://gamma.app)|
-|AI Content Generator|You(#https://you.com)|Control your own search engine.|11456224|Link(#https://you.com)|
-|AI Content Generator|MaxAI.me(#https://maxai.me)|One-click AI anywhere.|11254191|Link(#https://maxai.me)|
-|AI Content Generator|DeepAI(#https://deepai.org)|AI tools for creative people.|10330334|Link(#https://deepai.org)|
-|AI Content Generator|PixAI - AI Art Generator(#https://pixai.art)|Create stunning anime art effortlessly.|8348853|Link(#https://pixai.art)|
-|AI Content Generator|Akool(#https://akool.com)|Personalized visual marketing powered by Generative AI.|7062412|Link(#https://akool.com)|
-|AI Content Generator|Vidnoz AI(#https://www.vidnoz.com/?a_aid=663988790681e)|Free AI video creation tool driven by automation.|6637729|Link(#https://www.vidnoz.com/?a_aid=663988790681e)|
+|AI Content Generator|[Gemini & Gemini Advanced](https://gemini.google.com)|Direct access to Google's AI models on your phone.|414435188|[Link](https://gemini.google.com)|
+|AI Content Generator|[Shutterstock](https://shutterstock.com)|Stock images, photos, vectors, video, and music.|64792170|[Link](https://shutterstock.com)|
+|AI Content Generator|[CrushOn.AI](https://crushon.ai)|Unbounded conversations and authentic interactions.|16831907|[Link](https://crushon.ai)|
+|AI Content Generator|[Gamma AI](https://gamma.app)|Gamma App is an AI-powered tool that creates stunning presentations, webpages, and documents effortlessly.|14101206|[Link](https://gamma.app)|
+|AI Content Generator|[You](https://you.com)|Control your own search engine.|11456224|[Link](https://you.com)|
+|AI Content Generator|[MaxAI.me](https://maxai.me)|One-click AI anywhere.|11254191|[Link](https://maxai.me)|
+|AI Content Generator|[DeepAI](https://deepai.org)|AI tools for creative people.|10330334|[Link](https://deepai.org)|
+|AI Content Generator|[PixAI - AI Art Generator](https://pixai.art)|Create stunning anime art effortlessly.|8348853|[Link](https://pixai.art)|
+|AI Content Generator|[Akool](https://akool.com)|Personalized visual marketing powered by Generative AI.|7062412|[Link](https://akool.com)|
+|AI Content Generator|[Vidnoz AI](https://www.vidnoz.com/?a_aid=663988790681e)|Free AI video creation tool driven by automation.|6637729|[Link](https://www.vidnoz.com/?a_aid=663988790681e)|
 
 
 ## 2、AI Advertising Assistant
