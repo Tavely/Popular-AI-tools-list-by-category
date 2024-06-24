@@ -1,7 +1,7 @@
-#最受欢迎的人工智能工具分类列表
+# 最受欢迎的人工智能工具分类列表
 2024年分类排序的最受欢迎人工智能工具列表
 
-#Popular AI tools list by category
+# Popular AI tools list by category
 The most popular AI tools list sorted by category 2024
 
 
