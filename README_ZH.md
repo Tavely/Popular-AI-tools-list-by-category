@@ -1,13 +1,12 @@
-
 #最受欢迎的人工智能工具分类列表
 2024年分类排序的最受欢迎人工智能工具列表
 
-# Popular AI tools list by category
+#Popular AI tools list by category
 The most popular AI tools list sorted by category 2024
 
 
-[【english】]  (/Tavely/Popular-AI-tools-list-by-category/blob/main/README.md)
-[【中文】](/Tavely/Popular-AI-tools-list-by-category/blob/main/README_ZH.md)
+[【english】] (https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README.md)
+[【中文】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_ZH.md)
 
 ## 1、AI 内容生成器
 |分类|AI工具|描述|关注|网址|
