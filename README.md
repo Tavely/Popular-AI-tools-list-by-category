@@ -5,8 +5,8 @@ The most popular AI tools list sorted by category 2024
 ## 1、AI Content Generator
 |Category Name|AI Tool Name|Description|Hot|WebSite|
 |:----|:----|:----|:----|:----|
-|AI Content Generator|[Gemini & Gemini Advanced](https://gemini.google.com)|Direct access to Google's AI models on your phone.|414435188|[Link](https://gemini.google.com)|
-|AI Content Generator|[Shutterstock](https://shutterstock.com)|Stock images, photos, vectors, video, and music.|64792170|[Link](https://shutterstock.com)|
+|AI Content Generator|[Gemini & Gemini Advanced](#https://gemini.google.com)|Direct access to Google's AI models on your phone.|414435188|[Link](https://gemini.google.com)|
+|AI Content Generator|[Shutterstock](#https://shutterstock.com)|Stock images, photos, vectors, video, and music.|64792170|[Link](https://shutterstock.com)|
 |AI Content Generator|[CrushOn.AI](https://crushon.ai)|Unbounded conversations and authentic interactions.|16831907|[Link](https://crushon.ai)|
 |AI Content Generator|[Gamma AI](https://gamma.app)|Gamma App is an AI-powered tool that creates stunning presentations, webpages, and documents effortlessly.|14101206|[Link](https://gamma.app)|
 |AI Content Generator|[You](https://you.com)|Control your own search engine.|11456224|[Link](https://you.com)|
