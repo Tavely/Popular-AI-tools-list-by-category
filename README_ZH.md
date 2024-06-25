@@ -5,7 +5,7 @@
 The most popular AI tools list sorted by category 2024
 
 
-[【english】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README.md)
+[【English】](https://github.com/Tavely/Popular-AI-tools-list-by-category/)
 [【中文】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_ZH.md)
 
 ## 1、AI 内容生成器
