@@ -156,7 +156,7 @@ The most popular AI tools list sorted by category 2024
 |AI工具导航|[MyShell](https://www.myshell.ai)|使用MyShell平台创建个性化的聊天机器人，由AI和Web3驱动。与朋友分享和定制。|2901343|[Link](https://www.myshell.ai)|
 
 
-## 11、Other
+## 11、AI 领导力培养
 |分类|AI工具|描述|关注|网址|
 |:----|:----|:----|:----|:----|
 |AI 领导力培养|[HubSpot](https://hubspot.com)|通过HubSpot的客户平台，加快发展您的业务。|42359776|[Link](https://hubspot.com)|
@@ -169,6 +169,10 @@ The most popular AI tools list sorted by category 2024
 |AI 领导力培养|[Copy.ai](https://www.copy.ai)|Copy.ai是一款由人工智能驱动的工具，通过生成高质量的内容简化营销。|2161647|[Link](https://www.copy.ai)|
 |AI 领导力培养|[Taplio](https://taplio.com)|Taplio是一款由AI驱动的LinkedIn工具，可改善个人品牌、内容创作和互动。|2026601|[Link](https://taplio.com)|
 |AI 领导力培养|[Jasper](https://jasper.ai?utm_source=partner&fpr=usbot28)|Jasper是一款先进的AI内容创作工具，帮助企业团队生成高质量、可定制的内容。|1958865|[Link](https://jasper.ai?utm_source=partner&fpr=usbot28)|
+
+
+## 12、AI客户服务助手
+|分类|AI工具|描述|关注|网址|
 |AI客户服务助手|[Claude 2](https://claude.ai)|名为Claude的AI助手Anthropic提供各种功能和服务。|65974148|[Link](https://claude.ai)|
 |AI客户服务助手|[Abdul Malik Ibrahim Jaber Hassan](https://tawk.to?utm_source=usbot)|网站的免费在线聊天软件|7643288|[Link](https://tawk.to?utm_source=usbot)|
 |AI客户服务助手|[intercom.com](https://intercom.com)|自动化和人工支持，实现更快的解决方案。|4637263|[Link](https://intercom.com)|
@@ -179,6 +183,10 @@ The most popular AI tools list sorted by category 2024
 |AI客户服务助手|[Crisp](https://crisp.chat)|初创企业和中小型企业的商务消息平台|1410474|[Link](https://crisp.chat)|
 |AI客户服务助手|[Re:amaze](https://reamaze.com)|集成的客服、实时聊天和帮助台平台。|610829|[Link](https://reamaze.com)|
 |AI客户服务助手|[Missive](https://missiveapp.com)|Missive是一个简化团队沟通的平台，实现高效协作。|570903|[Link](https://missiveapp.com)|
+
+
+## 13、AI开发工具
+|分类|AI工具|描述|关注|网址|
 |AI开发工具|[Salesforce Einstein 1 Platform for Application Development](https://site.com)|一个高效和协作的软件应用开发平台。|79856226|[Link](https://site.com)|
 |AI开发工具|[HubSpot](https://hubspot.com)|通过HubSpot的客户平台，加快发展您的业务。|42359776|[Link](https://hubspot.com)|
 |AI开发工具|[Replit](https://replit.com)|Replit是一个具有50多种编程语言的协作式IDE，提供了强大的编译器和解释器。|9174925|[Link](https://replit.com)|
@@ -189,6 +197,10 @@ The most popular AI tools list sorted by category 2024
 |AI开发工具|[Lightning AI](https://lightning.ai)|Lightning AI允许使用PyTorch快速训练和部署AI模型。|1378155|[Link](https://lightning.ai)|
 |AI开发工具|[Roboflow](https://roboflow.com)|为您的软件赋予在图像和视频中识别对象的能力。|1351350|[Link](https://roboflow.com)|
 |AI开发工具|[Luma AI](https://lumalabs.ai)|Luma AI 为所有人提供了逼真的 3D 捕捉和逼真的效果。|1258283|[Link](https://lumalabs.ai)|
+
+
+## 14、AI响应生成器
+|分类|AI工具|描述|关注|网址|
 |AI响应生成器|[MaxAI.me](https://maxai.me)|一键AI，无处不在。|11254191|[Link](https://maxai.me)|
 |AI响应生成器|[Monica AI](https://monica.im)|为轻松聊天和文案编写提供个人AI助手。|5221204|[Link](https://monica.im)|
 |AI响应生成器|[Fliki](https://fliki.ai/?via=usbot)|使用Fliki的人工智能工具和丰富的媒体库轻松创建引人入胜的视频。|2370876|[Link](https://fliki.ai/?via=usbot)|
@@ -198,6 +210,10 @@ The most popular AI tools list sorted by category 2024
 |AI响应生成器|[Humanize AI Text ai](https://www.humanizeaitext.org)|将AI文本转换为自然、类似人类语言的文字。|1057857|[Link](https://www.humanizeaitext.org)|
 |AI响应生成器|[HyperWrite AI](https://www.hyperwriteai.com)|超写是一款个人AI写作助手，利用强大的AI技术帮助您更智能、更快速、更轻松地工作。它提供了数百种工具，用于转换您的写作、沟通和研究任务。|1006257|[Link](https://www.hyperwriteai.com)|
 |AI响应生成器|[Re:amaze](https://reamaze.com)|集成的客服、实时聊天和帮助台平台。|610829|[Link](https://reamaze.com)|
+
+
+## 15、AI广告生成器
+|分类|AI工具|描述|关注|网址|
 |AI广告生成器|[Adobe](https://adobe.com)|领先的公司提供创意、营销和文档管理解决方案。|302579075|[Link](https://adobe.com)|
 |AI广告生成器|[Shutterstock](https://shutterstock.com)|库存图像、照片、矢量图、视频和音乐。|64792170|[Link](https://shutterstock.com)|
 |AI广告生成器|[InVideo](https://invideo.io)|InVideo是一款带有优质模板、图片和音乐的在线视频编辑器。|7364749|[Link](https://invideo.io)|
@@ -208,6 +224,10 @@ The most popular AI tools list sorted by category 2024
 |AI广告生成器|[Coda](https://coda.io)|全能协作工作空间。|3092865|[Link](https://coda.io)|
 |AI广告生成器|[HypeAuditor](https://hypeauditor.com)|面向数据驱动的影响力营销平台，拥有超过8080万个个人资料，用于寻找最佳影响者并分析市场趋势。|2075124|[Link](https://hypeauditor.com)|
 |AI广告生成器|[Pika](https://pika.art)|从您的创意中创建动态视频。|2013763|[Link](https://pika.art)|
+
+
+## 16、AI社交媒体助手
+|分类|AI工具|描述|关注|网址|
 |AI社交媒体助手|[Microsoft Designer for Web](https://designer.microsoft.com)|使用微软设计师应用程序，为社交媒体、邀请函等创建令人惊叹的设计。|6122940|[Link](https://designer.microsoft.com)|
 |AI社交媒体助手|[Simplified](https://simplified.com/?fpr=usbot40)|一款用户友好的营销团队一体化应用，简化工作流程，提升创造力。|4837206|[Link](https://simplified.com/?fpr=usbot40)|
 |AI社交媒体助手|[Kapwing](https://kapwing.com)|使用Kapwing的协作在线平台创建、编辑和扩大内容。|3960961|[Link](https://kapwing.com)|
@@ -217,6 +237,10 @@ The most popular AI tools list sorted by category 2024
 |AI社交媒体助手|[HypeAuditor](https://hypeauditor.com)|面向数据驱动的影响力营销平台，拥有超过8080万个个人资料，用于寻找最佳影响者并分析市场趋势。|2075124|[Link](https://hypeauditor.com)|
 |AI社交媒体助手|[Taplio](https://taplio.com)|Taplio是一款由AI驱动的LinkedIn工具，可改善个人品牌、内容创作和互动。|2026601|[Link](https://taplio.com)|
 |AI社交媒体助手|[Jasper](https://jasper.ai?utm_source=partner&fpr=usbot28)|Jasper是一款先进的AI内容创作工具，帮助企业团队生成高质量、可定制的内容。|1958865|[Link](https://jasper.ai?utm_source=partner&fpr=usbot28)|
+
+
+## 17、AI生产力工具
+|分类|AI工具|描述|关注|网址|
 |AI生产力工具|[Notion AI](https://affiliate.notion.so/ffsd1156ei0l)|Notion是一个集成了维基、文档和项目管理的多功能工作空间。|165598786|[Link](https://affiliate.notion.so/ffsd1156ei0l)|
 |AI生产力工具|[Miro](https://miro.com)|概述：Miro可以帮助分布式团队在不同地点高效地进行协作和共同创作。|30784317|[Link](https://miro.com)|
 |AI生产力工具|[wondershare.com](https://wondershare.com)|创意、生产力和实用解决方案。|14701658|[Link](https://wondershare.com)|
@@ -227,6 +251,10 @@ The most popular AI tools list sorted by category 2024
 |AI生产力工具|[Taskade](https://taskade.com?via=usbot23)|Taskade是一个通过AI助手和各种功能提高团队生产力的平台。|1598144|[Link](https://taskade.com?via=usbot23)|
 |AI生产力工具|[Krisp](https://krisp.ai)|Krisp是一款消噪应用程序，备受全球知名品牌的信赖。|1459396|[Link](https://krisp.ai)|
 |AI生产力工具|[Harpa.ai](https://harpa.ai)|HARPA AI：用于网络自动化和基于AI的任务的Chrome扩展。|1438465|[Link](https://harpa.ai)|
+
+
+## 18、AI SEO助手
+|分类|AI工具|描述|关注|网址|
 |AI SEO助手|[Humanize AI](https://www.humanizeai.io?utm_source=toolify)|将AI文本转换为类似人类的文本|1516318|[Link](https://www.humanizeai.io?utm_source=toolify)|
 |AI SEO助手|[Harpa.ai](https://harpa.ai)|HARPA AI：用于网络自动化和基于AI的任务的Chrome扩展。|1438465|[Link](https://harpa.ai)|
 |AI SEO助手|[Rytr](https://rytr.me/?via=usbot)|Rytr是一个AI写作助手，可以快速、经济高效地生成独特的内容。|1166397|[Link](https://rytr.me/?via=usbot)|
@@ -237,6 +265,11 @@ The most popular AI tools list sorted by category 2024
 |AI SEO助手|[TubeBuddy](https://tubebuddy.com)|用于创作者的YouTube工作流程优化软件|908105|[Link](https://tubebuddy.com)|
 |AI SEO助手|[AISEO](https://aiseo.ai)|AISEO是一款写作助手，可以快速生成优化的内容，并拥有高级的改写工具。|836044|[Link](https://aiseo.ai)|
 |AI SEO助手|[Humanize AI Text](https://aiseo.ai/?fpr=wenhua52)|通过人的触感转化AI生成的文本，提升质量和真实性。|836044|[Link](https://aiseo.ai/?fpr=wenhua52)|
+
+
+
+## 19、AI回复助手
+|分类|AI工具|描述|关注|网址|
 |AI回复助手|[MaxAI.me](https://maxai.me)|一键AI，无处不在。|11254191|[Link](https://maxai.me)|
 |AI回复助手|[Monica AI](https://monica.im)|为轻松聊天和文案编写提供个人AI助手。|5221204|[Link](https://monica.im)|
 |AI回复助手|[Jasper](https://jasper.ai?utm_source=partner&fpr=usbot28)|Jasper是一款先进的AI内容创作工具，帮助企业团队生成高质量、可定制的内容。|1958865|[Link](https://jasper.ai?utm_source=partner&fpr=usbot28)|
@@ -246,6 +279,10 @@ The most popular AI tools list sorted by category 2024
 |AI回复助手|[HyperWrite AI](https://www.hyperwriteai.com)|超写是一款个人AI写作助手，利用强大的AI技术帮助您更智能、更快速、更轻松地工作。它提供了数百种工具，用于转换您的写作、沟通和研究任务。|1006257|[Link](https://www.hyperwriteai.com)|
 |AI回复助手|[Re:amaze](https://reamaze.com)|集成的客服、实时聊天和帮助台平台。|610829|[Link](https://reamaze.com)|
 |AI回复助手|[Landbot AI](https://landbot.io)|Landbot是一个多功能聊天机器人构建工具，不需要编码知识。|395904|[Link](https://landbot.io)|
+
+
+## 20、AI广告创意助手
+|分类|AI工具|描述|关注|网址|
 |AI广告创意助手|[Adobe](https://adobe.com)|领先的公司提供创意、营销和文档管理解决方案。|302579075|[Link](https://adobe.com)|
 |AI广告创意助手|[Shutterstock](https://shutterstock.com)|库存图像、照片、矢量图、视频和音乐。|64792170|[Link](https://shutterstock.com)|
 |AI广告创意助手|[InVideo](https://invideo.io)|InVideo是一款带有优质模板、图片和音乐的在线视频编辑器。|7364749|[Link](https://invideo.io)|
@@ -256,6 +293,10 @@ The most popular AI tools list sorted by category 2024
 |AI广告创意助手|[Onfido](https://onfido.com)|通过基于人工智能的数字身份解决方案来建立信任。|1504744|[Link](https://onfido.com)|
 |AI广告创意助手|[Stylar](https://www.stylar.ai/?via=wenhua)|AI辅助图像生成工具，轻松自定义和控制。|994055|[Link](https://www.stylar.ai/?via=wenhua)|
 |AI广告创意助手|[Pixelied Image AI](https://pixelied.com)|Pixelied是一个多功能的免费平面设计工具，具有各种功能和丰富的库存。|987950|[Link](https://pixelied.com)|
+
+
+## 11、Other
+|分类|AI工具|描述|关注|网址|
 |AI 工作流程管理|[Miro](https://miro.com)|概述：Miro可以帮助分布式团队在不同地点高效地进行协作和共同创作。|30784317|[Link](https://miro.com)|
 |AI 工作流程管理|[Zapier](https://zapier.com)|在数千个应用程序集成中自动化工作。|10586641|[Link](https://zapier.com)|
 |AI 工作流程管理|[Motion](https://usemotion.com)|AI 助力的应用以提高工作效率。|2326953|[Link](https://usemotion.com)|
