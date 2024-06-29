@@ -304,7 +304,7 @@ The most popular AI tools list sorted by category 2024
 |AI广告创意助手|[Pixelied Image AI](https://pixelied.com)|Pixelied是一个多功能的免费平面设计工具，具有各种功能和丰富的库存。|987950|[Link](https://pixelied.com)|
 
 
-## 11、Other
+## 21、Other
 |分类|AI工具|描述|关注|网址|
 |:----|:----|:----|:----|:----|
 |AI 工作流程管理|[Miro](https://miro.com)|概述：Miro可以帮助分布式团队在不同地点高效地进行协作和共同创作。|30784317|[Link](https://miro.com)|
