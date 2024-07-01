@@ -1,11 +1,11 @@
 ﻿# Lista de Ferramentas de IA Mais Populares por Categoria
 Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 
-[【English】](https://github.com/Tavely/Popular-AI-tools-list-by-category/)  [【简体中文】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_ZH.md))  [【繁體中文】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_TW.md))  [【한국어】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_KO.md))  [【日本語】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_JA.md))  [【Português】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_PT.md))  [【Español】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_ES.md))  [【Deutsch】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_DE.md))  [【Français】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_FR.md))  [【Tiếng Việt】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_VI.md))  
+[【English】](https://github.com/Tavely/Popular-AI-tools-list-by-category/)  [【简体中文】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_ZH.md)  [【繁體中文】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_TW.md)  [【한국어】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_KO.md)  [【日本語】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_JA.md)  [【Português】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_PT.md)  [【Español】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_ES.md)  [【Deutsch】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_DE.md)  [【Français】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_FR.md)  [【Tiếng Việt】](https://github.com/Tavely/Popular-AI-tools-list-by-category/blob/main/README_VI.md)  
 
-## Gerador de Conteúdo de IA
+## 1、Gerador de Conteúdo de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Akool](https://akool.com) | Marketing visual personalizado alimentado por IA generativa. | 7062412 | [Link](https://akool.com) |
 | 2 | [CrushOn.AI](https://crushon.ai) | Conversas ilimitadas e interações autênticas. | 16831907 | [Link](https://crushon.ai) |
 | 3 | [DeepAI](https://deepai.org) | Ferramentas de IA para pessoas criativas. | 10330334 | [Link](https://deepai.org) |
@@ -16,9 +16,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Shutterstock](https://shutterstock.com) | Imagens, fotos, vetores, vídeos e música gratuitos e protegidos por direitos autorais. | 64792170 | [Link](https://shutterstock.com) |
 | 9 | [Vidnoz AI](https://www.vidnoz.com/?a_aid=663988790681e) | Ferramenta de criação de vídeo IA gratuita impulsionada por automação. | 6637729 | [Link](https://www.vidnoz.com/?a_aid=663988790681e) |
 | 10 | [You](https://you.com) | Controle seu próprio mecanismo de busca. | 11456224 | [Link](https://you.com) |
-## Assistente de Publicidade com IA
+## 2、Assistente de Publicidade com IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [You](https://you.com) | Controle seu próprio mecanismo de busca. | 11456224 | [Link](https://you.com) |
 | 2 | [VEED.IO](https://veed.io) | Editor de vídeo AI gratuito com texto para vídeo, avatares, legendas automáticas e traduções de voz. | 13079858 | [Link](https://veed.io) |
 | 3 | [prolific.com](https://prolific.com) | Participantes de pesquisa confiáveis em minutos. | 13675224 | [Link](https://prolific.com) |
@@ -29,9 +29,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [123RF AI Search Engine](https://www.123rf.com) | 123RF é uma plataforma de fotos, vetores, cliparts e ilustrações livres de royalties. | 13734428 | [Link](https://www.123rf.com) |
 | 9 | [Adobe](https://adobe.com) | Empresa líder que oferece soluções criativas, de marketing e de gestão de documentos. | 302579075 | [Link](https://adobe.com) |
 | 10 | [Beacons AI 2.0](https://beacons.ai) | Plataforma tudo-em-um alimentada por IA para criadores de conteúdo. | 21172249 | [Link](https://beacons.ai) |
-## Chatbot AI
+## 3、Chatbot AI
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Candy.ai](https://candy.ai) | Mergulhe na melhor experiência de namorada IA. | 13172698 | [Link](https://candy.ai) |
 | 2 | [CrushOn.AI](https://crushon.ai) | Conversas ilimitadas e interações autênticas. | 16831907 | [Link](https://crushon.ai) |
 | 3 | [Claude 2](https://claude.ai) | O assistente de IA chamado Claude, chamado Anthropic, oferece vários recursos e serviços. | 65974148 | [Link](https://claude.ai) |
@@ -42,9 +42,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Offline Chat: Private AI](https://itunes.apple.com/app/id6474077941?utm_source=usbot) | LLM On-Device com RAG. | 27365957 | [Link](https://itunes.apple.com/app/id6474077941?utm_source=usbot) |
 | 9 | [Meta AI](https://www.meta.ai?utm_source=usbot) | Assistente de IA para tarefas e criação de imagens | 7790736 | [Link](https://www.meta.ai?utm_source=usbot) |
 | 10 | [You](https://you.com) | Controle seu próprio mecanismo de busca. | 11456224 | [Link](https://you.com) |
-## Gerador de Descri??o de Produto de IA
+## 4、Gerador de Descri??o de Produto de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [wondershare.com](https://wondershare.com) | Soluções de criatividade, produtividade e utilidade. | 14701658 | [Link](https://wondershare.com) |
 | 2 | [Miro](https://miro.com) | Sumário: Miro ajuda equipes distribuídas a colaborarem e co-criarem de forma eficiente em diferentes locais. | 30784317 | [Link](https://miro.com) |
 | 3 | [Notion AI](https://affiliate.notion.so/ffsd1156ei0l) | Notion é um espaço de trabalho versátil que integra wiki, docs e gerenciamento de projetos. | 165598786 | [Link](https://affiliate.notion.so/ffsd1156ei0l) |
@@ -54,9 +54,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 7 | [Suno AI](https://suno.ai) | Faça música incrível com Suno AI. Não é necessário instrumento, apenas imaginação. | 29752687 | [Link](https://suno.ai) |
 | 8 | [Shop: Your AI-Powered Shopping Assistant](https://shop.app) | Assistente de compras com IA e aplicativo móvel para compras online convenientes e personalizadas. | 89740870 | [Link](https://shop.app) |
 | 9 | [Gamma AI](https://gamma.app) | O Gamma App é uma ferramenta alimentada por IA que cria apresentações, páginas da web e documentos deslumbrantes sem esforço. | 14101206 | [Link](https://gamma.app) |
-## Modelos de Linguagem Grande (MLGs)
+## 5、Modelos de Linguagem Grande (MLGs)
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Gptzero me](https://gptzero.me/?via=usbot) | O GPTZero detecta modelos de IA em texto para trazer transparência, distinguindo conteúdo escrito por humanos. | 11005530 | [Link](https://gptzero.me/?via=usbot) |
 | 2 | [Kimi Chat](https://kimi.moonshot.cn?utm_source=usbot) | Um assistente inteligente com poder de memória ilimitado. | 22513412 | [Link](https://kimi.moonshot.cn?utm_source=usbot) |
 | 3 | [Chatpdf](https://www.chatpdf.com/?via=usbot) | O serviço ChatPDF alimentado por IA permite que os usuários conversem com qualquer PDF, fornecendo respostas instantâneas e melhor compreensão. | 8514637 | [Link](https://www.chatpdf.com/?via=usbot) |
@@ -66,9 +66,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 7 | [Meta AI](https://www.meta.ai?utm_source=usbot) | Assistente de IA para tarefas e criação de imagens | 7790736 | [Link](https://www.meta.ai?utm_source=usbot) |
 | 8 | [MaxAI.me](https://maxai.me) | IA em um clique em qualquer lugar. | 11254191 | [Link](https://maxai.me) |
 | 9 | [Midjourney](https://www.midjourney.com/home) | Laboratório de pesquisa expandindo a imaginação humana | 17041749 | [Link](https://www.midjourney.com/home) |
-## Gerador de fotos e imagens de IA
+## 6、Gerador de fotos e imagens de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Midjourney](https://www.midjourney.com/home) | Laboratório de pesquisa expandindo a imaginação humana | 17041749 | [Link](https://www.midjourney.com/home) |
 | 2 | [SeaArt.AI](https://www.seaart.ai/home?ad=USWBC2PAL006) | Site de geração de ilustrações AI | 9811467 | [Link](https://www.seaart.ai/home?ad=USWBC2PAL006) |
 | 3 | [Shutterstock](https://shutterstock.com) | Imagens, fotos, vetores, vídeos e música gratuitos e protegidos por direitos autorais. | 64792170 | [Link](https://shutterstock.com) |
@@ -79,9 +79,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Fotor AI](https://www.fotor.com/ai?utm_source=usbot) | O melhor editor de fotos AI | 15663761 | [Link](https://www.fotor.com/ai?utm_source=usbot) |
 | 9 | [Fotor](https://fotor.com) | Editor de fotos online fácil de usar com uma ampla gama de recursos e ferramentas. | 14773575 | [Link](https://fotor.com) |
 | 10 | [Yodayo AI](https://yodayo.com?utm_source=usbot) | Plataforma de criação de arte de anime | 16255353 | [Link](https://yodayo.com?utm_source=usbot) |
-## Assistentes de Escrita
+## 7、Assistentes de Escrita
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Gemini & Gemini Advanced](https://gemini.google.com) | Acesso direto aos modelos de IA do Google em seu telefone. | 414435188 | [Link](https://gemini.google.com) |
 | 2 | [Gptzero me](https://gptzero.me/?via=usbot) | O GPTZero detecta modelos de IA em texto para trazer transparência, distinguindo conteúdo escrito por humanos. | 11005530 | [Link](https://gptzero.me/?via=usbot) |
 | 3 | [Grammarly](https://www.grammarly.com) | Grammarly - Aprimore as habilidades de escrita e comunique-se com confiança usando a assistência à escrita por IA. | 73700532 | [Link](https://www.grammarly.com) |
@@ -91,9 +91,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 7 | [MaxAI.me](https://maxai.me) | IA em um clique em qualquer lugar. | 11254191 | [Link](https://maxai.me) |
 | 8 | [Monica AI](https://monica.im) | Sua assistente pessoal de IA para conversas e redação sem esforço. | 5221204 | [Link](https://monica.im) |
 | 9 | [OpusClip Captions](https://clip.opus.pro/captions?utm_source=usbot) | Adicione legendas animadas a vídeos com um clique | 5072664 | [Link](https://clip.opus.pro/captions?utm_source=usbot) |
-## Assistente de Análise de AI
+## 8、Assistente de Análise de AI
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Publer](https://publer.io/usbot) | Publer é uma ferramenta conveniente para agendar e analisar postagens de mídia social em várias plataformas. | 3077164 | [Link](https://publer.io/usbot) |
 | 2 | [Goodnotes](https://goodnotes.com) | Aplicativo de anotações com inteligência artificial e experiência realista de escrita à mão. | 2015282 | [Link](https://goodnotes.com) |
 | 3 | [Salesforce Einstein](https://force.com) | Unificando dados, IA, CRM, desenvolvimento e segurança em uma plataforma abrangente. | 110141078 | [Link](https://force.com) |
@@ -103,9 +103,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 7 | [VidIq](https://vidiq.com/?afmc=wenhua) | Ferramenta de crescimento do YouTube com sugestões baseadas em IA e análises. | 3711615 | [Link](https://vidiq.com/?afmc=wenhua) |
 | 8 | [Veo Sports Camera](https://veo.co) | A câmera definitiva para esportes em equipe. | 2512115 | [Link](https://veo.co) |
 | 9 | [Taplio](https://taplio.com) | Taplio é uma ferramenta AI-powered do LinkedIn para melhorar a marca pessoal, criação de conteúdo e interação. | 2026601 | [Link](https://taplio.com) |
-## Gerador de Arte AI
+## 9、Gerador de Arte AI
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Yodayo AI](https://yodayo.com?utm_source=usbot) | Plataforma de criação de arte de anime | 16255353 | [Link](https://yodayo.com?utm_source=usbot) |
 | 2 | [Leonardo.Ai](https://leonardo.ai) | Geração de ativos impulsionada por IA para projetos criativos. | 17034008 | [Link](https://leonardo.ai) |
 | 3 | [CrushOn.AI](https://crushon.ai) | Conversas ilimitadas e interações autênticas. | 16831907 | [Link](https://crushon.ai) |
@@ -116,9 +116,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [PixAI - AI Art Generator](https://pixai.art) | Crie arte anime deslumbrante sem esforço. | 8348853 | [Link](https://pixai.art) |
 | 9 | [NovelAI](https://novelai.net) | Serviço de assinatura alimentado por IA para criar literatura única e envolvente. | 6150183 | [Link](https://novelai.net) |
 | 10 | [Midjourney](https://www.midjourney.com/home) | Laboratório de pesquisa expandindo a imaginação humana | 17041749 | [Link](https://www.midjourney.com/home) |
-## Diretório de Ferramentas AI
+## 10、Diretório de Ferramentas AI
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Midjourney](https://www.midjourney.com/home) | Laboratório de pesquisa expandindo a imaginação humana | 17041749 | [Link](https://www.midjourney.com/home) |
 | 2 | [MyShell](https://www.myshell.ai) | Crie chatbots personalizados com a plataforma MyShell, alimentados por IA e Web3. Compartilhe e personalize com amigos. | 2901343 | [Link](https://www.myshell.ai) |
 | 3 | [Scispace](https://typeset.io) | SciSpace é uma ferramenta de IA que auxilia os usuários a compreender e avaliar artigos de pesquisa científica. | 6711405 | [Link](https://typeset.io) |
@@ -129,9 +129,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Hix AI](https://hix.ai/?ref=yzqxndr6) | O HIX.AI oferece poderosas ferramentas de escrita AI para geração de conteúdo de alta qualidade. | 5709273 | [Link](https://hix.ai/?ref=yzqxndr6) |
 | 9 | [VidIq](https://vidiq.com/?afmc=wenhua) | Ferramenta de crescimento do YouTube com sugestões baseadas em IA e análises. | 3711615 | [Link](https://vidiq.com/?afmc=wenhua) |
 | 10 | [ZeroGPT](https://www.zerogpt.com) | ZeroGPT é uma ferramenta AI poderosa e precisa para detectar conteúdo de chatGPT, texto gerado pela OpenAI e plágio. | 9402719 | [Link](https://www.zerogpt.com) |
-## Desenvolvimento de Lideran?a em IA
+## 11、Desenvolvimento de Lideran?a em IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Vidyard - Video Tools for Virtual Sales and Marketing Teams](https://vidyard.com) | Aumente leads, acelere o pipeline e encante os clientes com o Vidyard. | 2622399 | [Link](https://vidyard.com) |
 | 2 | [Taplio](https://taplio.com) | Taplio é uma ferramenta AI-powered do LinkedIn para melhorar a marca pessoal, criação de conteúdo e interação. | 2026601 | [Link](https://taplio.com) |
 | 3 | [GetResponse](https://getresponse.com) | Plataforma acessível e fácil de usar para marketing por e-mail e automação. | 4738838 | [Link](https://getresponse.com) |
@@ -142,9 +142,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Copy.ai](https://www.copy.ai) | Copy.ai é uma ferramenta alimentada por IA que simplifica o marketing ao gerar conteúdo de alta qualidade. | 2161647 | [Link](https://www.copy.ai) |
 | 9 | [Abdul Malik Ibrahim Jaber Hassan](https://tawk.to?utm_source=usbot) | Software de chat ao vivo gratuito para sites | 7643288 | [Link](https://tawk.to?utm_source=usbot) |
 | 10 | [MailerLite AI Drag & Drop Editor](https://www.mailerlite.com) | MailerLite é uma plataforma que fornece ferramentas para empresas crescerem sua audiência e gerarem receita. | 5945829 | [Link](https://www.mailerlite.com) |
-## Assistente de Atendimento ao Cliente de IA
+## 12、Assistente de Atendimento ao Cliente de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Missive](https://missiveapp.com) | Missive é uma plataforma que agiliza a comunicação em equipe, permitindo uma colaboração eficiente. | 570903 | [Link](https://missiveapp.com) |
 | 2 | [Re:amaze](https://reamaze.com) | Plataforma integrada de atendimento ao cliente, chat ao vivo e suporte. | 610829 | [Link](https://reamaze.com) |
 | 3 | [Abdul Malik Ibrahim Jaber Hassan](https://tawk.to?utm_source=usbot) | Software de chat ao vivo gratuito para sites | 7643288 | [Link](https://tawk.to?utm_source=usbot) |
@@ -155,9 +155,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [intercom.com](https://intercom.com) | Automação e suporte humano para resoluções mais rápidas. | 4637263 | [Link](https://intercom.com) |
 | 9 | [intercom.help](https://intercom.help) | Entregue respostas mais rápidas para os clientes e reduza a carga de trabalho da equipe de suporte. | 3712722 | [Link](https://intercom.help) |
 | 10 | [GitMind Chat](https://gitmind.com/ai-chat?utm_source=usbot) | O seu melhor assistente de IA | 1763995 | [Link](https://gitmind.com/ai-chat?utm_source=usbot) |
-## Ferramentas de Desenvolvimento de AI
+## 13、Ferramentas de Desenvolvimento de AI
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [HubSpot](https://hubspot.com) | Faça seu negócio crescer mais rápido com a plataforma de clientes da HubSpot. | 42359776 | [Link](https://hubspot.com) |
 | 2 | [AskYourPdf](https://www.askyourpdf.com/?via=usbot) | O aplicativo de chat AI AskYourPDF extrai insights de documentos PDF carregados. | 1440722 | [Link](https://www.askyourpdf.com/?via=usbot) |
 | 3 | [Replicate AI](https://replicate.com?utm_source=usbot) | Execute modelos de IA via API. | 3368575 | [Link](https://replicate.com?utm_source=usbot) |
@@ -168,9 +168,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Luma AI](https://lumalabs.ai) | Luma AI permite a captura 3D realista e efeitos fotográficos para todos. | 1258283 | [Link](https://lumalabs.ai) |
 | 9 | [Lightning AI](https://lightning.ai) | Lightning AI permite treinamento rápido e implantação de modelos de IA usando PyTorch. | 1378155 | [Link](https://lightning.ai) |
 | 10 | [Phind](https://phind.com) | Encontre soluções de desenvolvimento usando linguagem natural. | 7845995 | [Link](https://phind.com) |
-## Gerador de Respostas de IA
+## 14、Gerador de Respostas de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [MaxAI.me](https://maxai.me) | IA em um clique em qualquer lugar. | 11254191 | [Link](https://maxai.me) |
 | 2 | [Monica AI](https://monica.im) | Sua assistente pessoal de IA para conversas e redação sem esforço. | 5221204 | [Link](https://monica.im) |
 | 3 | [Rytr](https://rytr.me/?via=usbot) | "Rytr é um assistente de escrita de IA que gera conteúdo único de forma rápida e econômica." | 1166397 | [Link](https://rytr.me/?via=usbot) |
@@ -180,9 +180,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 7 | [HyperWrite AI](https://www.hyperwriteai.com) | Resumo do que é | 1006257 | [Link](https://www.hyperwriteai.com) |
 | 8 | [Jasper](https://jasper.ai?utm_source=partner&fpr=usbot28) | O Jasper é uma ferramenta avançada de criação de conteúdo de IA que ajuda equipes empresariais a gerar conteúdo personalizável de alta qualidade. | 1958865 | [Link](https://jasper.ai?utm_source=partner&fpr=usbot28) |
 | 9 | [Fliki](https://fliki.ai/?via=usbot) | Crie vídeos envolventes facilmente com a ferramenta alimentada por IA do Fliki e a rica biblioteca de mídia. | 2370876 | [Link](https://fliki.ai/?via=usbot) |
-## Gerador de anúncios de IA
+## 15、Gerador de anúncios de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [hCaptcha](https://hcaptcha.com) | Plataforma de segurança de IA de nível empresarial que protege contra bots e abuso humano. | 4587271 | [Link](https://hcaptcha.com) |
 | 2 | [HypeAuditor](https://hypeauditor.com) | Plataforma de marketing de influência baseada em dados com mais de 80,8 milhões de perfis para encontrar os melhores influenciadores e analisar as tendências de mercado. | 2075124 | [Link](https://hypeauditor.com) |
 | 3 | [InVideo](https://invideo.io) | InVideo é um editor de vídeo online com modelos premium, imagens e músicas. | 7364749 | [Link](https://invideo.io) |
@@ -193,9 +193,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Opus Clip AI](https://www.opus.pro/?via=e65202) | Transforme vídeos longos em clipes virais com o Opus Clip, uma ferramenta de reaproveitamento alimentada por IA. | 4538177 | [Link](https://www.opus.pro/?via=e65202) |
 | 9 | [Pika](https://pika.art) | Crie vídeos em movimento a partir de suas ideias. | 2013763 | [Link](https://pika.art) |
 | 10 | [Writesonic](https://writesonic.com?via=usbot98) | "Writesonic é um escritor de IA gratuito para criar conteúdo otimizado para SEO de forma rápida e fácil." | 3375004 | [Link](https://writesonic.com?via=usbot98) |
-## Assistente de Mídia Social de IA
+## 16、Assistente de Mídia Social de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Taplio](https://taplio.com) | Taplio é uma ferramenta AI-powered do LinkedIn para melhorar a marca pessoal, criação de conteúdo e interação. | 2026601 | [Link](https://taplio.com) |
 | 2 | [Microsoft Designer for Web](https://designer.microsoft.com) | Crie designs impressionantes com o aplicativo Microsoft Designer para mídias sociais, convites e muito mais. | 6122940 | [Link](https://designer.microsoft.com) |
 | 3 | [Simplified](https://simplified.com/?fpr=usbot40) | Um aplicativo completo e fácil de usar para equipes de marketing que simplifica o fluxo de trabalho e impulsiona a criatividade. | 4837206 | [Link](https://simplified.com/?fpr=usbot40) |
@@ -205,9 +205,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 7 | [HypeAuditor](https://hypeauditor.com) | Plataforma de marketing de influência baseada em dados com mais de 80,8 milhões de perfis para encontrar os melhores influenciadores e analisar as tendências de mercado. | 2075124 | [Link](https://hypeauditor.com) |
 | 8 | [Kapwing](https://kapwing.com) | Crie, edite e expanda o conteúdo com a plataforma colaborativa online do Kapwing. | 3960961 | [Link](https://kapwing.com) |
 | 9 | [Jasper](https://jasper.ai?utm_source=partner&fpr=usbot28) | O Jasper é uma ferramenta avançada de criação de conteúdo de IA que ajuda equipes empresariais a gerar conteúdo personalizável de alta qualidade. | 1958865 | [Link](https://jasper.ai?utm_source=partner&fpr=usbot28) |
-## Ferramentas de produtividade de IA
+## 17、Ferramentas de produtividade de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Krisp](https://krisp.ai) | Krisp é um aplicativo de cancelamento de ruído para chamadas online, confiável por marcas globais. | 1459396 | [Link](https://krisp.ai) |
 | 2 | [Harpa.ai](https://harpa.ai) | HARPA AI: Extensão do Chrome para automação na web e tarefas com IA. | 1438465 | [Link](https://harpa.ai) |
 | 3 | [Brain.fm](https://www.brain.fm) | Música funcional para aprimorar o foco e a produtividade. | 2072169 | [Link](https://www.brain.fm) |
@@ -218,9 +218,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Taskade](https://taskade.com?via=usbot23) | Taskade é uma plataforma que melhora a produtividade da equipe com a ajuda da IA e vários recursos. | 1598144 | [Link](https://taskade.com?via=usbot23) |
 | 9 | [Motion](https://usemotion.com) | Aplicativo com IA para aumentar a produtividade. | 2326953 | [Link](https://usemotion.com) |
 | 10 | [wondershare.com](https://wondershare.com) | Soluções de criatividade, produtividade e utilidade. | 14701658 | [Link](https://wondershare.com) |
-## Assistente de AI para SEO
+## 18、Assistente de AI para SEO
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [TubeBuddy](https://tubebuddy.com) | Software de otimização de fluxo de trabalho do YouTube para criadores | 908105 | [Link](https://tubebuddy.com) |
 | 2 | [Surfer](https://surferseo.com) | Ferramenta poderosa de SEO para pesquisa, auditoria, escrita, otimização e geração de artigos otimizados para SEO. | 912554 | [Link](https://surferseo.com) |
 | 3 | [Pixelied Image AI](https://pixelied.com) | Pixelied é uma ferramenta de design gráfico gratuita e versátil com vários recursos e uma grande biblioteca. | 987950 | [Link](https://pixelied.com) |
@@ -231,9 +231,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Harpa.ai](https://harpa.ai) | HARPA AI: Extensão do Chrome para automação na web e tarefas com IA. | 1438465 | [Link](https://harpa.ai) |
 | 9 | [Humanize AI](https://www.humanizeai.io?utm_source=usbot) | Converter texto de IA em texto semelhante ao humano | 1516318 | [Link](https://www.humanizeai.io?utm_source=usbot) |
 | 10 | [Humanize AI Text](https://aiseo.ai/?fpr=wenhua52) | Transforme o texto gerado por IA com um toque humano para maior qualidade e autenticidade. | 836044 | [Link](https://aiseo.ai/?fpr=wenhua52) |
-## Assistente de Resposta de IA
+## 19、Assistente de Resposta de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [HyperWrite AI](https://www.hyperwriteai.com) | Resumo do que é | 1006257 | [Link](https://www.hyperwriteai.com) |
 | 2 | [Landbot AI](https://landbot.io) | Matriz é um construtor de chatbot versátil que não requer conhecimento em codificação. | 395904 | [Link](https://landbot.io) |
 | 3 | [Jasper](https://jasper.ai?utm_source=partner&fpr=usbot28) | O Jasper é uma ferramenta avançada de criação de conteúdo de IA que ajuda equipes empresariais a gerar conteúdo personalizável de alta qualidade. | 1958865 | [Link](https://jasper.ai?utm_source=partner&fpr=usbot28) |
@@ -243,9 +243,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 7 | [Moemate](https://www.moemate.io) | Estúdio de IA personalizável com personagens realistas e conversas faladas. | 1550107 | [Link](https://www.moemate.io) |
 | 8 | [Monica AI](https://monica.im) | Sua assistente pessoal de IA para conversas e redação sem esforço. | 5221204 | [Link](https://monica.im) |
 | 9 | [MaxAI.me](https://maxai.me) | IA em um clique em qualquer lugar. | 11254191 | [Link](https://maxai.me) |
-## Assistente de Criatividade para Anúncios com IA
+## 20、Assistente de Criatividade para Anúncios com IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Onfido](https://onfido.com) | Crie confiança com uma solução de identidade digital alimentada por IA. | 1504744 | [Link](https://onfido.com) |
 | 2 | [Pixelied Image AI](https://pixelied.com) | Pixelied é uma ferramenta de design gráfico gratuita e versátil com vários recursos e uma grande biblioteca. | 987950 | [Link](https://pixelied.com) |
 | 3 | [Opus Clip AI](https://www.opus.pro/?via=e65202) | Transforme vídeos longos em clipes virais com o Opus Clip, uma ferramenta de reaproveitamento alimentada por IA. | 4538177 | [Link](https://www.opus.pro/?via=e65202) |
@@ -256,9 +256,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Coda](https://coda.io) | Espaço de trabalho colaborativo completo. | 3092865 | [Link](https://coda.io) |
 | 9 | [InVideo](https://invideo.io) | InVideo é um editor de vídeo online com modelos premium, imagens e músicas. | 7364749 | [Link](https://invideo.io) |
 | 10 | [Writesonic](https://writesonic.com?via=usbot98) | "Writesonic é um escritor de IA gratuito para criar conteúdo otimizado para SEO de forma rápida e fácil." | 3375004 | [Link](https://writesonic.com?via=usbot98) |
-## Gerenciamento de fluxo de trabalho de IA
+## 21、Gerenciamento de fluxo de trabalho de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Taskade](https://taskade.com?via=usbot23) | Taskade é uma plataforma que melhora a produtividade da equipe com a ajuda da IA e vários recursos. | 1598144 | [Link](https://taskade.com?via=usbot23) |
 | 2 | [Motion](https://usemotion.com) | Aplicativo com IA para aumentar a produtividade. | 2326953 | [Link](https://usemotion.com) |
 | 3 | [Zapier](https://zapier.com) | Automatize o trabalho em milhares de integrações de aplicativos. | 10586641 | [Link](https://zapier.com) |
@@ -269,9 +269,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Reclaim AI](https://reclaim.ai) | O Reclaim AI automatiza o planejamento e agendamento de tarefas, otimizando a produtividade com o Google Calendar. | 1105497 | [Link](https://reclaim.ai) |
 | 9 | [Nanonets](https://nanonets.com) | A Nanonets é uma plataforma de IA que automatiza processos e extrai insights acionáveis a partir de dados não estruturados. | 1022632 | [Link](https://nanonets.com) |
 | 10 | [Miro](https://miro.com) | Sumário: Miro ajuda equipes distribuídas a colaborarem e co-criarem de forma eficiente em diferentes locais. | 30784317 | [Link](https://miro.com) |
-## Gerador de Design de IA
+## 22、Gerador de Design de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Microsoft Designer for Web](https://designer.microsoft.com) | Crie designs impressionantes com o aplicativo Microsoft Designer para mídias sociais, convites e muito mais. | 6122940 | [Link](https://designer.microsoft.com) |
 | 2 | [LogoAI](https://www.logoai.com/?coupon=usbot) | LogoAI é uma plataforma alimentada por IA que ajuda as empresas a criar logotipos profissionais e promover marcas. | 2162135 | [Link](https://www.logoai.com/?coupon=usbot) |
 | 3 | [Looka](https://looka.com) | Gerador de logotipos alimentado por IA que cria logotipos personalizados. | 3400144 | [Link](https://looka.com) |
@@ -282,9 +282,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Framer AI](https://www.framer.com) | Framer permite aos usuários criar, projetar e publicar sites profissionais sem codificação. | 4829359 | [Link](https://www.framer.com) |
 | 9 | [Kittl](https://www.kittl.com) | Crie designs impressionantes facilmente com a plataforma intuitiva e poderosas ferramentas de design do Kittl. | 2705379 | [Link](https://www.kittl.com) |
 | 10 | [Hotpot.ai](https://hotpot.ai) | Hotpot.ai é uma plataforma que fornece ferramentas de IA para design gráfico criativo. | 2829073 | [Link](https://hotpot.ai) |
-## Marketing por E-mail com IA
+## 23、Marketing por E-mail com IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [HubSpot](https://hubspot.com) | Faça seu negócio crescer mais rápido com a plataforma de clientes da HubSpot. | 42359776 | [Link](https://hubspot.com) |
 | 2 | [Instantly](https://instantly.ai) | Um software de e-mail frio, Instantly.ai, ajuda os usuários a ampliar as campanhas de divulgação com contas ilimitadas e inteligência artificial inteligente. | 3471969 | [Link](https://instantly.ai) |
 | 3 | [Klaviyo](https://klaviyo.com) | Automação de marketing inteligente para crescimento mais rápido. | 4719468 | [Link](https://klaviyo.com) |
@@ -295,9 +295,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [MailerLite AI Drag & Drop Editor](https://www.mailerlite.com) | MailerLite é uma plataforma que fornece ferramentas para empresas crescerem sua audiência e gerarem receita. | 5945829 | [Link](https://www.mailerlite.com) |
 | 9 | [Mailchimp](https://mailchi.mp) | Converta mais clientes com a plataforma de marketing e automação da Mailchimp. | 14834003 | [Link](https://mailchi.mp) |
 | 10 | [Vidyard - Video Tools for Virtual Sales and Marketing Teams](https://vidyard.com) | Aumente leads, acelere o pipeline e encante os clientes com o Vidyard. | 2622399 | [Link](https://vidyard.com) |
-## Editor de Foto & Imagem
+## 24、Editor de Foto & Imagem
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Viggle](https://viggle.ai?utm_source=usbot) | Plataforma de geração de vídeos com compreensão de física | 6363120 | [Link](https://viggle.ai?utm_source=usbot) |
 | 2 | [Yodayo AI](https://yodayo.com?utm_source=usbot) | Plataforma de criação de arte de anime | 16255353 | [Link](https://yodayo.com?utm_source=usbot) |
 | 3 | [Photoroom](https://www.photoroom.com) | Crie fotos profissionais de produtos e retratos com apenas o seu celular usando o aplicativo PhotoRoom. | 12609190 | [Link](https://www.photoroom.com) |
@@ -308,9 +308,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Cutout.Pro](https://www.cutout.pro?vsource=cutout_share-557564158235973) | Plataforma de edição de fotos com IA e geração de conteúdo. | 15345073 | [Link](https://www.cutout.pro?vsource=cutout_share-557564158235973) |
 | 9 | [Fotor](https://fotor.com) | Editor de fotos online fácil de usar com uma ampla gama de recursos e ferramentas. | 14773575 | [Link](https://fotor.com) |
 | 10 | [Fotor AI](https://www.fotor.com/ai?utm_source=usbot) | O melhor editor de fotos AI | 15663761 | [Link](https://www.fotor.com/ai?utm_source=usbot) |
-## Assistente de Código de IA
+## 25、Assistente de Código de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [cursor.sh](https://cursor.sh) | O Editor de Código AI-first para desenvolvimento de software rápido. | 982080 | [Link](https://cursor.sh) |
 | 2 | [Claude 2](https://claude.ai) | O assistente de IA chamado Claude, chamado Anthropic, oferece vários recursos e serviços. | 65974148 | [Link](https://claude.ai) |
 | 3 | [Codeium](https://www.codeium.com) | Codeium é uma ferramenta gratuita de IA para completamento de código e busca, suportando mais de 70+ linguagens. | 1207123 | [Link](https://www.codeium.com) |
@@ -321,9 +321,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Tabnine](https://www.tabnine.com) | Tabnine é um assistente de IA que melhora a entrega de código e a segurança para uma melhor produtividade de desenvolvimento. | 1184458 | [Link](https://www.tabnine.com) |
 | 9 | [Phind](https://phind.com) | Encontre soluções de desenvolvimento usando linguagem natural. | 7845995 | [Link](https://phind.com) |
 | 10 | [Warp AI](https://warp.dev) | Warp é um terminal moderno com IA para acelerar o desenvolvimento de software. | 758412 | [Link](https://warp.dev) |
-## Construtor de Aplicativos de IA
+## 26、Construtor de Aplicativos de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Uizard](https://get.uizard.io/aff_c?offer_id=3&aff_id=66) | Projete aplicativos e sites rapidamente com Uizard, a primeira ferramenta de design com IA! | 1004880 | [Link](https://get.uizard.io/aff_c?offer_id=3&aff_id=66) |
 | 2 | [MyShell](https://www.myshell.ai) | Crie chatbots personalizados com a plataforma MyShell, alimentados por IA e Web3. Compartilhe e personalize com amigos. | 2901343 | [Link](https://www.myshell.ai) |
 | 3 | [Softr](https://softrplatformsgmbh.grsm.io/9snwwn685yk3) | Construa portais de clientes e ferramentas internas sem codificação usando os blocos pré-construídos do Softr. | 888020 | [Link](https://softrplatformsgmbh.grsm.io/9snwwn685yk3) |
@@ -334,9 +334,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Durable](https://durable.co/?utm_medium=Website%20Listing&utm_campaign=usbot&utm_source=Website&utm_content=&utm_term=usbot) | Uma plataforma que oferece ferramentas de IA para pequenas empresas criarem e gerenciarem seus sites de forma eficiente. | 1561432 | [Link](https://durable.co/?utm_medium=Website%20Listing&utm_campaign=usbot&utm_source=Website&utm_content=&utm_term=usbot) |
 | 9 | [Framer AI](https://www.framer.com) | Framer permite aos usuários criar, projetar e publicar sites profissionais sem codificação. | 4829359 | [Link](https://www.framer.com) |
 | 10 | [Glide](https://glideapps.com) | Aplicativos personalizados com inteligência artificial, sem código. | 911627 | [Link](https://glideapps.com) |
-## Construtor de sites de IA
+## 27、Construtor de sites de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Framer AI](https://www.framer.com) | Framer permite aos usuários criar, projetar e publicar sites profissionais sem codificação. | 4829359 | [Link](https://www.framer.com) |
 | 2 | [GetResponse](https://getresponse.com) | Plataforma acessível e fácil de usar para marketing por e-mail e automação. | 4738838 | [Link](https://getresponse.com) |
 | 3 | [HubSpot](https://hubspot.com) | Faça seu negócio crescer mais rápido com a plataforma de clientes da HubSpot. | 42359776 | [Link](https://hubspot.com) |
@@ -347,9 +347,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [MailerLite AI Drag & Drop Editor](https://www.mailerlite.com) | MailerLite é uma plataforma que fornece ferramentas para empresas crescerem sua audiência e gerarem receita. | 5945829 | [Link](https://www.mailerlite.com) |
 | 9 | [Looka](https://looka.com) | Gerador de logotipos alimentado por IA que cria logotipos personalizados. | 3400144 | [Link](https://looka.com) |
 | 10 | [LogoAI](https://www.logoai.com/?coupon=usbot) | LogoAI é uma plataforma alimentada por IA que ajuda as empresas a criar logotipos profissionais e promover marcas. | 2162135 | [Link](https://www.logoai.com/?coupon=usbot) |
-## Texto para Imagem
+## 28、Texto para Imagem
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Monica AI](https://monica.im) | Sua assistente pessoal de IA para conversas e redação sem esforço. | 5221204 | [Link](https://monica.im) |
 | 2 | [NightCafe Studio](https://creator.nightcafe.studio) | Crie belas obras de arte em IA com o aplicativo NightCafe Creator e conecte-se a uma comunidade próspera. | 5814761 | [Link](https://creator.nightcafe.studio) |
 | 3 | [Openart](https://openart.ai) | OpenArt é um gerador de imagem de IA que aprimora a criatividade e a produtividade com vários modelos e estilos de IA. | 4849319 | [Link](https://openart.ai) |
@@ -360,9 +360,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [tensor.art](https://tensor.art?utm_source=usbot) | Crie e hospede imagens geradas por IA online | 4578361 | [Link](https://tensor.art?utm_source=usbot) |
 | 9 | [Viggle](https://viggle.ai?utm_source=usbot) | Plataforma de geração de vídeos com compreensão de física | 6363120 | [Link](https://viggle.ai?utm_source=usbot) |
 | 10 | [Yodayo AI](https://yodayo.com?utm_source=usbot) | Plataforma de criação de arte de anime | 16255353 | [Link](https://yodayo.com?utm_source=usbot) |
-## Assistente de E-mail IA
+## 29、Assistente de E-mail IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Klaviyo](https://klaviyo.com) | Automação de marketing inteligente para crescimento mais rápido. | 4719468 | [Link](https://klaviyo.com) |
 | 2 | [Jasper](https://jasper.ai?utm_source=partner&fpr=usbot28) | O Jasper é uma ferramenta avançada de criação de conteúdo de IA que ajuda equipes empresariais a gerar conteúdo personalizável de alta qualidade. | 1958865 | [Link](https://jasper.ai?utm_source=partner&fpr=usbot28) |
 | 3 | [Instantly](https://instantly.ai) | Um software de e-mail frio, Instantly.ai, ajuda os usuários a ampliar as campanhas de divulgação com contas ilimitadas e inteligência artificial inteligente. | 3471969 | [Link](https://instantly.ai) |
@@ -373,9 +373,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Monica AI](https://monica.im) | Sua assistente pessoal de IA para conversas e redação sem esforço. | 5221204 | [Link](https://monica.im) |
 | 9 | [MailerLite AI Drag & Drop Editor](https://www.mailerlite.com) | MailerLite é uma plataforma que fornece ferramentas para empresas crescerem sua audiência e gerarem receita. | 5945829 | [Link](https://www.mailerlite.com) |
 | 10 | [Mailchimp](https://mailchi.mp) | Converta mais clientes com a plataforma de marketing e automação da Mailchimp. | 14834003 | [Link](https://mailchi.mp) |
-## Assistente de Educa??o em IA
+## 30、Assistente de Educa??o em IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Skillsoft Percipio](https://percipio.com) | Preencha as lacunas de habilidades e impulsione a transformação da força de trabalho com a plataforma de aprendizado impulsionada por IA da Skillsoft. | 1276977 | [Link](https://percipio.com) |
 | 2 | [NoteGPT](https://notegpt.io?utm_source=usbot) | Resumir vídeos, artigos e texto com IA. Conversar com assistente IA. Gerador de transcrição. Anotação automática. Gerenciamento de pastas. | 1721618 | [Link](https://notegpt.io?utm_source=usbot) |
 | 3 | [NaturalReaders](https://www.naturalreaders.com) | NaturalReader converte texto em áudio falado para os usuários ouvirem seus documentos. | 3623929 | [Link](https://www.naturalreaders.com) |
@@ -386,9 +386,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Cognito](https://cognitoedu.org) | Plataforma de aprendizado inteligente para Ciências e Matemática do Ensino Médio (GCSE). | 1897698 | [Link](https://cognitoedu.org) |
 | 9 | [Gauthmath](https://gauthmath.com) | Ajuda gratuita para lição de matemática com respostas precisas. | 6569543 | [Link](https://gauthmath.com) |
 | 10 | [knowt.com](https://knowt.com) | Aplicativo de estudo alimentado por IA com cartões de estudo, guias de estudo e testes práticos. | 3282703 | [Link](https://knowt.com) |
-## Gerenciamento de tarefas de IA
+## 31、Gerenciamento de tarefas de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Code GPT](https://codegpt.co) | CodeGPT aprimora o desenvolvimento de software com recursos poderosos para desenvolvedores. | 306580 | [Link](https://codegpt.co) |
 | 2 | [Dola: AI Calendar Assistant](https://hidola.ai) | Mantenha-se organizado sem esforço! | 525325 | [Link](https://hidola.ai) |
 | 3 | [Careerflow](https://careerflow.ai) | Seu assistente de IA para ferramentas de busca de emprego. | 730290 | [Link](https://careerflow.ai) |
@@ -399,9 +399,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Taskade](https://taskade.com?via=usbot23) | Taskade é uma plataforma que melhora a produtividade da equipe com a ajuda da IA e vários recursos. | 1598144 | [Link](https://taskade.com?via=usbot23) |
 | 9 | [Motion](https://usemotion.com) | Aplicativo com IA para aumentar a produtividade. | 2326953 | [Link](https://usemotion.com) |
 | 10 | [Vanta](https://vanta.com) | Automatize a conformidade e simplifique a segurança com o Vanta. | 372057 | [Link](https://vanta.com) |
-## Copywriting
+## 32、Copywriting
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Rytr](https://rytr.me/?via=usbot) | "Rytr é um assistente de escrita de IA que gera conteúdo único de forma rápida e econômica." | 1166397 | [Link](https://rytr.me/?via=usbot) |
 | 2 | [Simplified](https://simplified.com/?fpr=usbot40) | Um aplicativo completo e fácil de usar para equipes de marketing que simplifica o fluxo de trabalho e impulsiona a criatividade. | 4837206 | [Link](https://simplified.com/?fpr=usbot40) |
 | 3 | [ALIagents.ai](https://aliagents.ai?utm_source=usbot) | Democratizando a criação de IA | 1067212 | [Link](https://aliagents.ai?utm_source=usbot) |
@@ -412,9 +412,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [HyperWrite AI](https://www.hyperwriteai.com) | Resumo do que é | 1006257 | [Link](https://www.hyperwriteai.com) |
 | 9 | [Harpa.ai](https://harpa.ai) | HARPA AI: Extensão do Chrome para automação na web e tarefas com IA. | 1438465 | [Link](https://harpa.ai) |
 | 10 | [Hix AI](https://hix.ai/?ref=yzqxndr6) | O HIX.AI oferece poderosas ferramentas de escrita AI para geração de conteúdo de alta qualidade. | 5709273 | [Link](https://hix.ai/?ref=yzqxndr6) |
-## Designer de Websites de IA
+## 33、Designer de Websites de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Framer AI](https://www.framer.com) | Framer permite aos usuários criar, projetar e publicar sites profissionais sem codificação. | 4829359 | [Link](https://www.framer.com) |
 | 2 | [Fliki](https://fliki.ai/?via=usbot) | Crie vídeos envolventes facilmente com a ferramenta alimentada por IA do Fliki e a rica biblioteca de mídia. | 2370876 | [Link](https://fliki.ai/?via=usbot) |
 | 3 | [Shop: Your AI-Powered Shopping Assistant](https://shop.app) | Assistente de compras com IA e aplicativo móvel para compras online convenientes e personalizadas. | 89740870 | [Link](https://shop.app) |
@@ -425,9 +425,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Namelix](https://namelix.com) | Namelix é uma ferramenta gratuita de IA que gera nomes de negócios curtos e memoráveis, além de oferecer busca de disponibilidade de domínio e geração instantânea de logotipos. | 1558749 | [Link](https://namelix.com) |
 | 9 | [v0.dev by Vercel Labs](https://v0.dev) | Sistema de Interface de Usuário Generativo alimentado por IA. | 830092 | [Link](https://v0.dev) |
 | 10 | [Uizard](https://get.uizard.io/aff_c?offer_id=3&aff_id=66) | Projete aplicativos e sites rapidamente com Uizard, a primeira ferramenta de design com IA! | 1004880 | [Link](https://get.uizard.io/aff_c?offer_id=3&aff_id=66) |
-## Base de Conhecimento de IA
+## 34、Base de Conhecimento de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [txyz.ai](https://txyz.ai?utm_source=usbot) | Plataforma de IA revolucionária para pesquisa eficiente | 636863 | [Link](https://txyz.ai?utm_source=usbot) |
 | 2 | [The New GitBook](https://gitbook.com) | Uma ferramenta de gestão de conhecimento para equipes técnicas. | 1004740 | [Link](https://gitbook.com) |
 | 3 | [NoteGPT](https://notegpt.io?utm_source=usbot) | Resumir vídeos, artigos e texto com IA. Conversar com assistente IA. Gerador de transcrição. Anotação automática. Gerenciamento de pastas. | 1721618 | [Link](https://notegpt.io?utm_source=usbot) |
@@ -438,9 +438,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Crisp](https://crisp.chat) | Plataforma de mensagens comerciais para startups e pequenas e médias empresas | 1410474 | [Link](https://crisp.chat) |
 | 9 | [Abdul Malik Ibrahim Jaber Hassan](https://tawk.to?utm_source=usbot) | Software de chat ao vivo gratuito para sites | 7643288 | [Link](https://tawk.to?utm_source=usbot) |
 | 10 | [AskYourPdf](https://www.askyourpdf.com/?via=usbot) | O aplicativo de chat AI AskYourPDF extrai insights de documentos PDF carregados. | 1440722 | [Link](https://www.askyourpdf.com/?via=usbot) |
-## Sem Código&Baixo Código
+## 35、Sem Código&Baixo Código
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Beacons AI 2.0](https://beacons.ai) | Plataforma tudo-em-um alimentada por IA para criadores de conteúdo. | 21172249 | [Link](https://beacons.ai) |
 | 2 | [Appy Pie](https://appypie.com) | Desenvolvimento de aplicativos sem código com IA. | 2233698 | [Link](https://appypie.com) |
 | 3 | [Coze](https://www.coze.com) | Uma plataforma de desenvolvimento de chatbots AI com LLMs. | 4227309 | [Link](https://www.coze.com) |
@@ -451,9 +451,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Portaly](https://portaly.cc/en) | Portaly é uma plataforma de IA para personalização fácil e criação de páginas de destino personalizadas de link em biografia. | 1040804 | [Link](https://portaly.cc/en) |
 | 9 | [Softr](https://softrplatformsgmbh.grsm.io/9snwwn685yk3) | Construa portais de clientes e ferramentas internas sem codificação usando os blocos pré-construídos do Softr. | 888020 | [Link](https://softrplatformsgmbh.grsm.io/9snwwn685yk3) |
 | 10 | [Nanonets](https://nanonets.com) | A Nanonets é uma plataforma de IA que automatiza processos e extrai insights acionáveis a partir de dados não estruturados. | 1022632 | [Link](https://nanonets.com) |
-## Prompt
+## 36、Prompt
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [NovelAI](https://novelai.net) | Serviço de assinatura alimentado por IA para criar literatura única e envolvente. | 6150183 | [Link](https://novelai.net) |
 | 2 | [Leonardo.Ai](https://leonardo.ai) | Geração de ativos impulsionada por IA para projetos criativos. | 17034008 | [Link](https://leonardo.ai) |
 | 3 | [starryai 2.0](https://starryai.com) | "starryai é um aplicativo de IA para criar arte com base em descrições em texto." | 1389938 | [Link](https://starryai.com) |
@@ -463,9 +463,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 7 | [Harpa.ai](https://harpa.ai) | HARPA AI: Extensão do Chrome para automação na web e tarefas com IA. | 1438465 | [Link](https://harpa.ai) |
 | 8 | [Dezgo](https://dezgo.com) | Dezgo é um gerador de imagens AI que produz imagens de alta qualidade a partir de descrições de texto. | 1903605 | [Link](https://dezgo.com) |
 | 9 | [Viggle Ai](https://www.viggle.ai?utm_source=usbot) | Faça qualquer personagem se mover como desejar. | 6363120 | [Link](https://www.viggle.ai?utm_source=usbot) |
-## Design Gráfico por IA
+## 37、Design Gráfico por IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Adobe](https://adobe.com) | Empresa líder que oferece soluções criativas, de marketing e de gestão de documentos. | 302579075 | [Link](https://adobe.com) |
 | 2 | [Befunky](https://www.befunky.com) | BeFunky é uma plataforma online para edição de fotos, criação de colagens e design gráfico. | 3215768 | [Link](https://www.befunky.com) |
 | 3 | [BrandCrowd](https://www.brandcrowd.com?utm_source=usbot) | Plataforma de design para logotipos, cartões de visita e designs sociais | 3509321 | [Link](https://www.brandcrowd.com?utm_source=usbot) |
@@ -476,9 +476,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Microsoft Designer for Web](https://designer.microsoft.com) | Crie designs impressionantes com o aplicativo Microsoft Designer para mídias sociais, convites e muito mais. | 6122940 | [Link](https://designer.microsoft.com) |
 | 9 | [NightCafe Studio](https://creator.nightcafe.studio) | Crie belas obras de arte em IA com o aplicativo NightCafe Creator e conecte-se a uma comunidade próspera. | 5814761 | [Link](https://creator.nightcafe.studio) |
 | 10 | [Pixlr](https://pixlr.com) | Pixlr é uma ferramenta online gratuita para edição de fotos, design e criação de imagens com IA. | 12107096 | [Link](https://pixlr.com) |
-## Escritor de Blog de Inteligência Artificial
+## 38、Escritor de Blog de Inteligência Artificial
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [TalkDirtyAI](https://talkdirtyai.com) | Experimente fantasias de IA com TalkDirtyAI. | 889872 | [Link](https://talkdirtyai.com) |
 | 2 | [Surfer](https://surferseo.com) | Ferramenta poderosa de SEO para pesquisa, auditoria, escrita, otimização e geração de artigos otimizados para SEO. | 912554 | [Link](https://surferseo.com) |
 | 3 | [Rytr](https://rytr.me/?via=usbot) | "Rytr é um assistente de escrita de IA que gera conteúdo único de forma rápida e econômica." | 1166397 | [Link](https://rytr.me/?via=usbot) |
@@ -489,9 +489,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Content At Scale](https://contentatscale.ai?fpr=usbot89) | Automação de conteúdo alimentada por AI para blogs otimizados para SEO. | 956466 | [Link](https://contentatscale.ai?fpr=usbot89) |
 | 9 | [Copy.ai](https://www.copy.ai) | Copy.ai é uma ferramenta alimentada por IA que simplifica o marketing ao gerar conteúdo de alta qualidade. | 2161647 | [Link](https://www.copy.ai) |
 | 10 | [Writesonic](https://writesonic.com?via=usbot98) | "Writesonic é um escritor de IA gratuito para criar conteúdo otimizado para SEO de forma rápida e fácil." | 3375004 | [Link](https://writesonic.com?via=usbot98) |
-## Aprimorador de Fotos com AI
+## 39、Aprimorador de Fotos com AI
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Viggle](https://viggle.ai?utm_source=usbot) | Plataforma de geração de vídeos com compreensão de física | 6363120 | [Link](https://viggle.ai?utm_source=usbot) |
 | 2 | [VEED.IO](https://veed.io) | Editor de vídeo AI gratuito com texto para vídeo, avatares, legendas automáticas e traduções de voz. | 13079858 | [Link](https://veed.io) |
 | 3 | [Yodayo AI](https://yodayo.com?utm_source=usbot) | Plataforma de criação de arte de anime | 16255353 | [Link](https://yodayo.com?utm_source=usbot) |
@@ -502,9 +502,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Pixelcut](https://pixelcut.ai) | Uma ferramenta de design online gratuita para criar fotos de produtos e anúncios, com capacidades fáceis de remover fundo e apagar objetos. | 6240122 | [Link](https://pixelcut.ai) |
 | 9 | [Photoroom](https://www.photoroom.com) | Crie fotos profissionais de produtos e retratos com apenas o seu celular usando o aplicativo PhotoRoom. | 12609190 | [Link](https://www.photoroom.com) |
 | 10 | [NightCafe Studio](https://creator.nightcafe.studio) | Crie belas obras de arte em IA com o aplicativo NightCafe Creator e conecte-se a uma comunidade próspera. | 5814761 | [Link](https://creator.nightcafe.studio) |
-## Gerador de foto de perfil de IA
+## 40、Gerador de foto de perfil de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Neural.love Art Generator](https://neural.love?via=ai4cg) | neural.love fornece ferramentas de IA gratuitas para gerar e aprimorar imagens com milhões de opções de domínio público disponíveis. | 2833819 | [Link](https://neural.love?via=ai4cg) |
 | 2 | [NewFuku](https://newfuku.com) | Tecnologia avançada de IA modifica roupas. | 2054259 | [Link](https://newfuku.com) |
 | 3 | [Pixelcut](https://pixelcut.ai) | Uma ferramenta de design online gratuita para criar fotos de produtos e anúncios, com capacidades fáceis de remover fundo e apagar objetos. | 6240122 | [Link](https://pixelcut.ai) |
@@ -515,9 +515,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Artguru AI Art Generator](https://www.artguru.ai) | Crie lindas obras de arte com o poder da AI. | 2616132 | [Link](https://www.artguru.ai) |
 | 9 | [Akool](https://akool.com) | Marketing visual personalizado alimentado por IA generativa. | 7062412 | [Link](https://akool.com) |
 | 10 | [Yodayo AI](https://yodayo.com?utm_source=usbot) | Plataforma de criação de arte de anime | 16255353 | [Link](https://yodayo.com?utm_source=usbot) |
-## Escrita Criativa de IA
+## 41、Escrita Criativa de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [The StoryGraph](https://thestorygraph.com) | Acompanhe e escolha livros com base no seu estado de espírito e preferências. | 3049464 | [Link](https://thestorygraph.com) |
 | 2 | [AISEO](https://aiseo.ai) | AISEO é um assistente de escrita que gera conteúdo otimizado rapidamente e possui uma ferramenta avançada de parafraseamento. | 836044 | [Link](https://aiseo.ai) |
 | 3 | [Easy-Peasy.AI](https://easy-peasy.ai/?via=usbot) | O Easy-Peasy.AI é uma ferramenta de IA que ajuda os usuários a gerar conteúdo original mais rapidamente e melhorar as habilidades de escrita. | 901560 | [Link](https://easy-peasy.ai/?via=usbot) |
@@ -528,9 +528,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Story.com](https://story.com?utm_source=usbot) | Crie e compartilhe histórias de vídeo com IA | 800820 | [Link](https://story.com?utm_source=usbot) |
 | 9 | [NovelAI](https://novelai.net) | Serviço de assinatura alimentado por IA para criar literatura única e envolvente. | 6150183 | [Link](https://novelai.net) |
 | 10 | [JotBot AI](https://myjotbot.com) | Assistente de escrita alimentado por IA que imita seu estilo. | 1157613 | [Link](https://myjotbot.com) |
-## Recrutamento de IA
+## 42、Recrutamento de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Magical AI](https://www.getmagical.com) | O aplicativo Mágico usa IA para automatizar tarefas repetitivas e otimizar fluxos de trabalho. | 514820 | [Link](https://www.getmagical.com) |
 | 2 | [Talent Protocol](https://talentprotocol.com?utm_source=usbot) | Desbloqueando dados de reputação verificáveis para talentos | 887269 | [Link](https://talentprotocol.com?utm_source=usbot) |
 | 3 | [Recruit CRM](https://recruitcrm.io/?linkId=lp_056505&sourceId=usbot&tenantId=recruitcrm) | Otimizar e automatizar recrutamento global. | 529799 | [Link](https://recruitcrm.io/?linkId=lp_056505&sourceId=usbot&tenantId=recruitcrm) |
@@ -541,9 +541,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [GrabJobs](https://grabjobs.co) | Encontre os melhores empregos e cresça na sua carreira. | 1117344 | [Link](https://grabjobs.co) |
 | 9 | [Careerflow](https://careerflow.ai) | Seu assistente de IA para ferramentas de busca de emprego. | 730290 | [Link](https://careerflow.ai) |
 | 10 | [VideoAsk by Typeform Official ; Interactive Video Platform](https://videoask.com) | Aprimore conversas com formulários e chatbots de vídeo. | 666643 | [Link](https://videoask.com) |
-## Assistente de Vendas
+## 43、Assistente de Vendas
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Verk](https://getverk.ai?utm_source=tooldirlist) | Obtenha trabalhadores digitais parecidos com humanos para o seu negócio. | 196986 | [Link](https://getverk.ai?utm_source=tooldirlist) |
 | 2 | [WinningHunter](https://winninghunter.com) | Encontre rapidamente produtos vencedores para dropshipping com a melhor ferramenta de espionagem de anúncios do WinningHunter. Analise anúncios do Facebook e do TikTok, rastreie as vendas da loja e gere cópias persuasivas de anúncios com IA. Maximize seu sucesso no dropshipping com os recursos poderosos do WinningHunter. | 321948 | [Link](https://winninghunter.com) |
 | 3 | [Avoma – AI Meeting Assistant](https://www.avoma.com) | Avoma é um assistente de IA que transcreve, resume e analisa reuniões para insights acionáveis. | 89118 | [Link](https://www.avoma.com) |
@@ -554,9 +554,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Salesmate CRM](https://salesmate.io) | CRM avançado com automação. | 139789 | [Link](https://salesmate.io) |
 | 9 | [Mailforge](https://mailforge.ai) | Auto-gerar domínios e caixas de correio para e-mails frios com alta taxa de entrega. | 115143 | [Link](https://mailforge.ai) |
 | 10 | [orum.com](https://orum.com?utm_source=usbot) | Plataforma potencializada por IA para impulsionar vendas | 280681 | [Link](https://orum.com?utm_source=usbot) |
-## Escrita Geral
+## 44、Escrita Geral
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Rytr](https://rytr.me/?via=usbot) | "Rytr é um assistente de escrita de IA que gera conteúdo único de forma rápida e econômica." | 1166397 | [Link](https://rytr.me/?via=usbot) |
 | 2 | [ProWritingAid](https://prowritingaid.com) | Seu assistente de escrita completo. | 2075212 | [Link](https://prowritingaid.com) |
 | 3 | [Simplified](https://simplified.com/?fpr=usbot40) | Um aplicativo completo e fácil de usar para equipes de marketing que simplifica o fluxo de trabalho e impulsiona a criatividade. | 4837206 | [Link](https://simplified.com/?fpr=usbot40) |
@@ -567,9 +567,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Gemini & Gemini Advanced](https://gemini.google.com) | Acesso direto aos modelos de IA do Google em seu telefone. | 414435188 | [Link](https://gemini.google.com) |
 | 9 | [Course Hero](https://coursehero.com) | Recursos de estudo, anotações, preparação para testes, ajuda com trabalhos de casa e tutores especializados ao alcance de suas mãos. | 28779985 | [Link](https://coursehero.com) |
 | 10 | [Easy-Peasy.AI](https://easy-peasy.ai/?via=usbot) | O Easy-Peasy.AI é uma ferramenta de IA que ajuda os usuários a gerar conteúdo original mais rapidamente e melhorar as habilidades de escrita. | 901560 | [Link](https://easy-peasy.ai/?via=usbot) |
-## Imagem para Imagem
+## 45、Imagem para Imagem
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Clipdrop](https://clipdrop.co) | Clipdrop é uma poderosa ferramenta alimentada por IA para criação visual sem esforço. | 3359461 | [Link](https://clipdrop.co) |
 | 2 | [Akool](https://akool.com) | Marketing visual personalizado alimentado por IA generativa. | 7062412 | [Link](https://akool.com) |
 | 3 | [Getimg.ai](https://getimg.ai/?via=usbot) | Um conjunto de ferramentas mágicas de IA para gerar, modificar e expandir imagens. | 3046843 | [Link](https://getimg.ai/?via=usbot) |
@@ -580,9 +580,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Yodayo AI](https://yodayo.com?utm_source=usbot) | Plataforma de criação de arte de anime | 16255353 | [Link](https://yodayo.com?utm_source=usbot) |
 | 9 | [Viggle](https://viggle.ai?utm_source=usbot) | Plataforma de geração de vídeos com compreensão de física | 6363120 | [Link](https://viggle.ai?utm_source=usbot) |
 | 10 | [Undress AI App](https://undress.app) | Crie Deepnude gratuitamente | 5503220 | [Link](https://undress.app) |
-## Sumarizador
+## 46、Sumarizador
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [秘塔AI](https://metaso.cn?utm_source=usbot) | Sem anúncios, resultados diretos. | 13559051 | [Link](https://metaso.cn?utm_source=usbot) |
 | 2 | [NoteGPT](https://notegpt.io?utm_source=usbot) | Resumir vídeos, artigos e texto com IA. Conversar com assistente IA. Gerador de transcrição. Anotação automática. Gerenciamento de pastas. | 1721618 | [Link](https://notegpt.io?utm_source=usbot) |
 | 3 | [OpusClip Captions](https://clip.opus.pro/captions?utm_source=usbot) | Adicione legendas animadas a vídeos com um clique | 5072664 | [Link](https://clip.opus.pro/captions?utm_source=usbot) |
@@ -593,9 +593,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Harpa.ai](https://harpa.ai) | HARPA AI: Extensão do Chrome para automação na web e tarefas com IA. | 1438465 | [Link](https://harpa.ai) |
 | 9 | [Chatpdf](https://www.chatpdf.com/?via=usbot) | O serviço ChatPDF alimentado por IA permite que os usuários conversem com qualquer PDF, fornecendo respostas instantâneas e melhor compreensão. | 8514637 | [Link](https://www.chatpdf.com/?via=usbot) |
 | 10 | [Coral AI](https://www.getcoralai.com//?ref=usbot) | Resumo de PDF em segundos com IA | 1292134 | [Link](https://www.getcoralai.com//?ref=usbot) |
-## Tutorial de AI
+## 47、Tutorial de AI
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Cognito](https://cognitoedu.org) | Plataforma de aprendizado inteligente para Ciências e Matemática do Ensino Médio (GCSE). | 1897698 | [Link](https://cognitoedu.org) |
 | 2 | [Eightify](https://www.eightify.app) | Gere resumos de vídeo do YouTube de forma rápida e fácil com o Eightify AI ChatGPT. | 1081314 | [Link](https://www.eightify.app) |
 | 3 | [Fliki](https://fliki.ai/?via=usbot) | Crie vídeos envolventes facilmente com a ferramenta alimentada por IA do Fliki e a rica biblioteca de mídia. | 2370876 | [Link](https://fliki.ai/?via=usbot) |
@@ -606,9 +606,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [NoteGPT](https://notegpt.io?utm_source=usbot) | Resumir vídeos, artigos e texto com IA. Conversar com assistente IA. Gerador de transcrição. Anotação automática. Gerenciamento de pastas. | 1721618 | [Link](https://notegpt.io?utm_source=usbot) |
 | 9 | [Upscale.media](https://affiliates.pixelbin.io/gm4f98yc95eg) | Um ampliador de imagem alimentado por IA que aumenta e aprimora fotos sem perder qualidade. | 4320649 | [Link](https://affiliates.pixelbin.io/gm4f98yc95eg) |
 | 10 | [The New Riverside](https://www.riverside.fm/?utm_campaign=campaign_5&utm_medium=affiliate&utm_source=rewardful&via=wenhua) | Riverside.fm é um estúdio virtual que permite a podcasters criar conteúdo profissional remotamente. | 3422911 | [Link](https://www.riverside.fm/?utm_campaign=campaign_5&utm_medium=affiliate&utm_source=rewardful&via=wenhua) |
-## Reescritor de IA
+## 48、Reescritor de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Undetectable.ai](https://undetectable.ai?fpr=bglbr) | Soluções de Conteúdo de IA transforma conteúdos gerados por IA em escrita de alta qualidade, alinhando-os com sua marca. | 4225290 | [Link](https://undetectable.ai?fpr=bglbr) |
 | 2 | [OpusClip Captions](https://clip.opus.pro/captions?utm_source=usbot) | Adicione legendas animadas a vídeos com um clique | 5072664 | [Link](https://clip.opus.pro/captions?utm_source=usbot) |
 | 3 | [Smodin](https://smodin.io) | Smodin é uma plataforma que melhora a escrita com várias ferramentas para estudantes, escritores e profissionais da internet em todo o mundo. | 6370355 | [Link](https://smodin.io) |
@@ -619,9 +619,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Gemini & Gemini Advanced](https://gemini.google.com) | Acesso direto aos modelos de IA do Google em seu telefone. | 414435188 | [Link](https://gemini.google.com) |
 | 9 | [Jasper](https://jasper.ai?utm_source=partner&fpr=usbot28) | O Jasper é uma ferramenta avançada de criação de conteúdo de IA que ajuda equipes empresariais a gerar conteúdo personalizável de alta qualidade. | 1958865 | [Link](https://jasper.ai?utm_source=partner&fpr=usbot28) |
 | 10 | [Humanize AI](https://www.humanizeai.io?utm_source=usbot) | Converter texto de IA em texto semelhante ao humano | 1516318 | [Link](https://www.humanizeai.io?utm_source=usbot) |
-## Assistente de Design
+## 49、Assistente de Design
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Fliki](https://fliki.ai/?via=usbot) | Crie vídeos envolventes facilmente com a ferramenta alimentada por IA do Fliki e a rica biblioteca de mídia. | 2370876 | [Link](https://fliki.ai/?via=usbot) |
 | 2 | [Coohom - 3D Home Interior Design AI Tool](https://www.coohom.com) | Coohom capacita os designers com uma ferramenta abrangente de design de interiores para criar visualizações 3D em minutos. | 1340691 | [Link](https://www.coohom.com) |
 | 3 | [PromeAI](https://www.promeai.pro/?vsource=i_ragq9pnrg7) | Crie uma arte e designs impressionantes com a PromeAI. | 1641060 | [Link](https://www.promeai.pro/?vsource=i_ragq9pnrg7) |
@@ -632,9 +632,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Microsoft Designer for Web](https://designer.microsoft.com) | Crie designs impressionantes com o aplicativo Microsoft Designer para mídias sociais, convites e muito mais. | 6122940 | [Link](https://designer.microsoft.com) |
 | 9 | [Uizard](https://get.uizard.io/aff_c?offer_id=3&aff_id=66) | Projete aplicativos e sites rapidamente com Uizard, a primeira ferramenta de design com IA! | 1004880 | [Link](https://get.uizard.io/aff_c?offer_id=3&aff_id=66) |
 | 10 | [Whimsical](https://whimsical.com?utm_source=usbot) | Alinhe seu próximo projeto mais rápido | 2257381 | [Link](https://whimsical.com?utm_source=usbot) |
-## Gerador de Vídeo AI
+## 50、Gerador de Vídeo AI
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Viggle Ai](https://www.viggle.ai?utm_source=usbot) | Faça qualquer personagem se mover como desejar. | 6363120 | [Link](https://www.viggle.ai?utm_source=usbot) |
 | 2 | [Viggle](https://viggle.ai?utm_source=usbot) | Plataforma de geração de vídeos com compreensão de física | 6363120 | [Link](https://viggle.ai?utm_source=usbot) |
 | 3 | [OpusClip Captions](https://clip.opus.pro/captions?utm_source=usbot) | Adicione legendas animadas a vídeos com um clique | 5072664 | [Link](https://clip.opus.pro/captions?utm_source=usbot) |
@@ -645,9 +645,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Akool](https://akool.com) | Marketing visual personalizado alimentado por IA generativa. | 7062412 | [Link](https://akool.com) |
 | 9 | [HeyGen](https://app.heygen.com/guest?sid=rewardful&via=usbot) | HeyGen simplifica a criação de vídeos usando avatares de IA, clonagem de voz e muito mais. | 4367263 | [Link](https://app.heygen.com/guest?sid=rewardful&via=usbot) |
 | 10 | [InVideo](https://invideo.io) | InVideo é um editor de vídeo online com modelos premium, imagens e músicas. | 7364749 | [Link](https://invideo.io) |
-## Escrita de Histórias de AI
+## 51、Escrita de Histórias de AI
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [AI Story Generator](https://www.datanumen.com/ai-story-generator?utm_source=usbot) | Gere histórias engraçadas e educativas ilimitadamente com texto e imagens. | 556485 | [Link](https://www.datanumen.com/ai-story-generator?utm_source=usbot) |
 | 2 | [CAVEDUCK](https://caveduck.io) | Bate-papo ao vivo com personagens de IA | 441868 | [Link](https://caveduck.io) |
 | 3 | [DreamGen: AI role-play & story-writing](https://dreamgen.com) | Liberte sua imaginação com o DreamGen. | 449758 | [Link](https://dreamgen.com) |
@@ -658,9 +658,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [NSFWLover](https://www.nsfwlover.com/?via=usbot.ai) | NSFWLover é um guia abrangente para namorada e namorado de IA, oferecendo uma plataforma para companheirismo virtual imersivo e personalizável. Os usuários podem participar de conversas românticas e adultas, explorar fantasias e criar histórias de amor de IA personalizadas. Com vozes únicas e conversas profundas, o NSFWLover oferece uma experiência interativa e gratificante de namorada e namorado de IA. | 1483428 | [Link](https://www.nsfwlover.com/?via=usbot.ai) |
 | 9 | [LTX Studio](https://ltx.studio?utm_source=usbot) | Plataforma de produção cinematográfica impulsionada por IA para controle completo da narrativa. | 454007 | [Link](https://ltx.studio?utm_source=usbot) |
 | 10 | [The StoryGraph](https://thestorygraph.com) | Acompanhe e escolha livros com base no seu estado de espírito e preferências. | 3049464 | [Link](https://thestorygraph.com) |
-## Redator de E-mails de IA
+## 52、Redator de E-mails de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Spark Mail](https://sparkmailapp.com) | Controle sua caixa de entrada com o Spark. | 483122 | [Link](https://sparkmailapp.com) |
 | 2 | [Reply.io](https://reply.io) | Gerar leads com sequências multicanais com caixas de correio ilimitadas, converter tráfego do site em reuniões marcadas ou contratar AI SDRs de vendas para lidar com isso por você — tudo dentro do Reply. | 188293 | [Link](https://reply.io) |
 | 3 | [Shortwave](https://www.shortwave.com) | Shortwave é um serviço de e-mail alimentado por IA para profissionais, tornando a produtividade sem estresse. | 521716 | [Link](https://www.shortwave.com) |
@@ -670,9 +670,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 7 | [Jasper](https://jasper.ai?utm_source=partner&fpr=usbot28) | O Jasper é uma ferramenta avançada de criação de conteúdo de IA que ajuda equipes empresariais a gerar conteúdo personalizável de alta qualidade. | 1958865 | [Link](https://jasper.ai?utm_source=partner&fpr=usbot28) |
 | 8 | [Gravity Write](https://gravitywrite.com) | Gere conteúdo cativante rapidamente com a ferramenta de escrita alimentada por IA do GravityWrite. | 731209 | [Link](https://gravitywrite.com) |
 | 9 | [Go Charlie](https://gocharlie.ai?fpr=usbot65) | GoCharlie é uma IA que ajuda a criar e publicar conteúdo facilmente. | 236923 | [Link](https://gocharlie.ai?fpr=usbot65) |
-## Voz-para-Texto
+## 53、Voz-para-Texto
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Happy Scribe](https://happyscribe.com) | Transcrição de áudio para texto e legendas de vídeo com alta precisão. | 2601152 | [Link](https://happyscribe.com) |
 | 2 | [HitPaw Edimakor](https://www.hitpaw.com/video-editor.html?utm_source=usbot) | Editor de vídeo AI com recursos avançados | 1951884 | [Link](https://www.hitpaw.com/video-editor.html?utm_source=usbot) |
 | 3 | [Adobe Podcast](https://podcast.adobe.com) | O Adobe Podcast é uma plataforma web com recursos de áudio com IA para gravação, transcrição, edição e compartilhamento de conteúdo de áudio. | 4223252 | [Link](https://podcast.adobe.com) |
@@ -682,9 +682,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 7 | [Otter AI](https://otter.ai) | Otter.ai é uma plataforma que fornece notas de reunião automáticas, transcrições e resumos, melhorando a produtividade e a colaboração. | 5283228 | [Link](https://otter.ai) |
 | 8 | [Transkriptor](https://transkriptor.com) | Converta áudio e vídeo em texto com a poderosa IA do Transkriptor. | 2222347 | [Link](https://transkriptor.com) |
 | 9 | [TurboScribe](https://turboscribe.ai) | Transcrição de IA ilimitada com 99,8% de precisão em mais de 98 idiomas. | 1934237 | [Link](https://turboscribe.ai) |
-## Traduzir
+## 54、Traduzir
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Trancy](https://www.trancy.org) | Aprenda idiomas assistindo a vídeos no YouTube e Netflix com o Trancy, melhorando suas habilidades de forma realista. | 696728 | [Link](https://www.trancy.org) |
 | 2 | [Vidnoz AI Video Translator](https://www.vidnoz.com/video-translate.html?a_aid=663988790681e) | Traduza vídeos em mais de 140 idiomas em 3 passos | 6637729 | [Link](https://www.vidnoz.com/video-translate.html?a_aid=663988790681e) |
 | 3 | [Lingvanex](http://www.lingvanex.com) | Lingvanex oferece uma variedade de ferramentas de tradução, aumentando a produtividade com tradução neural. | 1521484 | [Link](http://www.lingvanex.com) |
@@ -695,9 +695,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Free Doc Translator](https://doctranslator.com) | Traduzir documentos em PDF online | 912437 | [Link](https://doctranslator.com) |
 | 9 | [Hix AI](https://hix.ai/?ref=yzqxndr6) | O HIX.AI oferece poderosas ferramentas de escrita AI para geração de conteúdo de alta qualidade. | 5709273 | [Link](https://hix.ai/?ref=yzqxndr6) |
 | 10 | [Immersive Translate](https://immersivetranslate.com/en/?utm_source=usbot&utm_medium=web&utm_campaign=usbot_240219) | Ferramenta gratuita de tradução de páginas da web bilíngues e tradução de documentos. | 1835895 | [Link](https://immersivetranslate.com/en/?utm_source=usbot&utm_medium=web&utm_campaign=usbot_240219) |
-## Texto-para-Voz
+## 55、Texto-para-Voz
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Kits AI](https://kits.ai) | Transforme sua voz com vozes de artistas de IA. Crie e treine seu próprio modelo de voz de IA. | 2446312 | [Link](https://kits.ai) |
 | 2 | [Fliki](https://fliki.ai/?via=usbot) | Crie vídeos envolventes facilmente com a ferramenta alimentada por IA do Fliki e a rica biblioteca de mídia. | 2370876 | [Link](https://fliki.ai/?via=usbot) |
 | 3 | [ElevenLabs](https://elevenlabs.io) | Gere vozes em IA de alta qualidade em minutos. | 19702195 | [Link](https://elevenlabs.io) |
@@ -707,9 +707,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 7 | [Murf AI](https://murf.ai/?lmref=a5AoyQ) | Murf AI oferece narrações realistas com 120 vozes em 20 idiomas para uso profissional. | 2128518 | [Link](https://murf.ai/?lmref=a5AoyQ) |
 | 8 | [NaturalReaders](https://www.naturalreaders.com) | NaturalReader converte texto em áudio falado para os usuários ouvirem seus documentos. | 3623929 | [Link](https://www.naturalreaders.com) |
 | 9 | [TTSMaker](https://ttsmaker.com) | Uma ferramenta de texto para fala online gratuita com mais de 200 vozes de IA e suporte para vários idiomas. | 3515684 | [Link](https://ttsmaker.com) |
-## Gerador de Fundo de IA
+## 56、Gerador de Fundo de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Viggle Ai](https://www.viggle.ai?utm_source=usbot) | Faça qualquer personagem se mover como desejar. | 6363120 | [Link](https://www.viggle.ai?utm_source=usbot) |
 | 2 | [Yodayo AI](https://yodayo.com?utm_source=usbot) | Plataforma de criação de arte de anime | 16255353 | [Link](https://yodayo.com?utm_source=usbot) |
 | 3 | [ZMO AI](https://www.zmo.ai) | ZMO.AI é um gerador de arte de IA fácil de usar para criar anime e imagens deslumbrantes. | 3381880 | [Link](https://www.zmo.ai) |
@@ -720,9 +720,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Akool](https://akool.com) | Marketing visual personalizado alimentado por IA generativa. | 7062412 | [Link](https://akool.com) |
 | 9 | [Fotor AI](https://www.fotor.com/ai?utm_source=usbot) | O melhor editor de fotos AI | 15663761 | [Link](https://www.fotor.com/ai?utm_source=usbot) |
 | 10 | [Hotpot.ai](https://hotpot.ai) | Hotpot.ai é uma plataforma que fornece ferramentas de IA para design gráfico criativo. | 2829073 | [Link](https://hotpot.ai) |
-## Assistente de IA do YouTube
+## 57、Assistente de IA do YouTube
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Crayo AI](https://crayo.ai) | Crie clipes virais do TikTok em segundos! | 347287 | [Link](https://crayo.ai) |
 | 2 | [Simplified](https://simplified.com/?fpr=usbot40) | Um aplicativo completo e fácil de usar para equipes de marketing que simplifica o fluxo de trabalho e impulsiona a criatividade. | 4837206 | [Link](https://simplified.com/?fpr=usbot40) |
 | 3 | [SliceTube](https://www.slicetube.io?utm_source=usbot) | Downloader de vídeos do YouTube rápido e moderno. | 589705 | [Link](https://www.slicetube.io?utm_source=usbot) |
@@ -733,9 +733,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [VidIq](https://vidiq.com/?afmc=wenhua) | Ferramenta de crescimento do YouTube com sugestões baseadas em IA e análises. | 3711615 | [Link](https://vidiq.com/?afmc=wenhua) |
 | 9 | [VideoGen - AI Video Generator](https://videogen.io) | Crie vídeos gerados por IA em segundos. | 649171 | [Link](https://videogen.io) |
 | 10 | [TubeBuddy](https://tubebuddy.com) | Software de otimização de fluxo de trabalho do YouTube para criadores | 908105 | [Link](https://tubebuddy.com) |
-## Texto para Vídeo
+## 58、Texto para Vídeo
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Viggle](https://viggle.ai?utm_source=usbot) | Plataforma de geração de vídeos com compreensão de física | 6363120 | [Link](https://viggle.ai?utm_source=usbot) |
 | 2 | [OpenAI Sora](https://openai.com/sora) | Modelo de IA criando cenas a partir de texto. | 1843177529 | [Link](https://openai.com/sora) |
 | 3 | [OpusClip Captions](https://clip.opus.pro/captions?utm_source=usbot) | Adicione legendas animadas a vídeos com um clique | 5072664 | [Link](https://clip.opus.pro/captions?utm_source=usbot) |
@@ -746,9 +746,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [HeyGen](https://app.heygen.com/guest?sid=rewardful&via=usbot) | HeyGen simplifica a criação de vídeos usando avatares de IA, clonagem de voz e muito mais. | 4367263 | [Link](https://app.heygen.com/guest?sid=rewardful&via=usbot) |
 | 9 | [haiper.ai](https://haiper.ai?utm_source=usbot) | Perceptual Foundation Models for content creation. | 2290817 | [Link](https://haiper.ai?utm_source=usbot) |
 | 10 | [Fliki](https://fliki.ai/?via=usbot) | Crie vídeos envolventes facilmente com a ferramenta alimentada por IA do Fliki e a rica biblioteca de mídia. | 2370876 | [Link](https://fliki.ai/?via=usbot) |
-## Escrita de livros de IA
+## 59、Escrita de livros de IA
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [ebookmaker.ai](https://www.ebookmaker.ai) | Crie facilmente ebooks com IA. Basta um clique para fazer isso. | 164921 | [Link](https://www.ebookmaker.ai) |
 | 2 | [CoWriter AI](https://cowriter.ai) | Escreva melhor, mais inteligente e mais rápido. | 103619 | [Link](https://cowriter.ai) |
 | 3 | [Storynest.ai](https://www.storynest.ai) | StoryNest.ai: Onde a IA e a imaginação colidem para criar narrativas interativas e evolutivas. | 161686 | [Link](https://www.storynest.ai) |
@@ -758,9 +758,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 7 | [ProWritingAid](https://prowritingaid.com) | Seu assistente de escrita completo. | 2075212 | [Link](https://prowritingaid.com) |
 | 8 | [MyTales - AI Powered Story Generator](https://mytales.io) | Liberte sua imaginação com MyTales, um gerador de histórias impulsionado por IA. | 101652 | [Link](https://mytales.io) |
 | 9 | [The StoryGraph](https://thestorygraph.com) | Acompanhe e escolha livros com base no seu estado de espírito e preferências. | 3049464 | [Link](https://thestorygraph.com) |
-## Ferramenta de pesquisa
+## 60、Ferramenta de pesquisa
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [OpenAI](https://openai.com) | OpenAI cria AGI segura para a humanidade através de pesquisa e modelos avançados. | 1843177529 | [Link](https://openai.com) |
 | 2 | [Midjourney](https://www.midjourney.com/home) | Laboratório de pesquisa expandindo a imaginação humana | 17041749 | [Link](https://www.midjourney.com/home) |
 | 3 | [Semantic Scholar](https://www.semanticscholar.org) | Semantic Scholar é uma ferramenta de pesquisa gratuita alimentada por IA que ajuda os estudiosos a encontrar literatura científica relevante. | 9156320 | [Link](https://www.semanticscholar.org) |
@@ -771,9 +771,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Consensus](https://consensus.app) | Consensus utiliza inteligência artificial para encontrar insights em artigos científicos. | 2720164 | [Link](https://consensus.app) |
 | 9 | [Casetext](https://casetext.com) | Casetext desenvolve assistente jurídico de AI para profissionais jurídicos. | 6033995 | [Link](https://casetext.com) |
 | 10 | [Chatpdf](https://www.chatpdf.com/?via=usbot) | O serviço ChatPDF alimentado por IA permite que os usuários conversem com qualquer PDF, fornecendo respostas instantâneas e melhor compreensão. | 8514637 | [Link](https://www.chatpdf.com/?via=usbot) |
-## Inteligência Artificial
+## 61、Inteligência Artificial
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [CodeWP AI](https://codewp.ai/?via=usbot) | CodeWP é um gerador de código AI para WordPress, tornando a construção de sites mais rápida e fácil. | 58096 | [Link](https://codewp.ai/?via=usbot) |
 | 2 | [Corrector App](https://topai.tools?aff=O0D1K) | Ferramenta online gratuita ajuda a melhorar a escrita identificando erros de ortografia, gramática e pontuação. | 145153 | [Link](https://topai.tools?aff=O0D1K) |
 | 3 | [Elephas](https://elephas.app/?affiliate_id=778477267) | Elephas é um assistente de escrita AI versátil para usuários de Mac, compatível com iPhone e iPad. | 80823 | [Link](https://elephas.app/?affiliate_id=778477267) |
@@ -784,9 +784,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Office Translator](https://officetranslator.com) | Traduzir PDF / DOCX / PPTX / XLSX / EPUB / SRT com ChatGPT | 168726 | [Link](https://officetranslator.com) |
 | 9 | [Paraphrasingtool.ai](https://paraphrasingtool.ai) | Uma ferramenta de IA que ajuda os usuários a reformular e aprimorar sua escrita, evitando plágio. | 81551 | [Link](https://paraphrasingtool.ai) |
 | 10 | [Trinka AI - Grammar Checker Tool](https://www.trinka.ai) | Trinka é um verificador gramatical de IA para redação acadêmica e profissional. | 316621 | [Link](https://www.trinka.ai) |
-## Teste de IA e garantia de qualidade
+## 62、Teste de IA e garantia de qualidade
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Teste.ai](https://www.teste.ai) | Teste.ai é uma plataforma de teste de software alimentada por IA que aprimora a produtividade dos testadores. | 8612 | [Link](https://www.teste.ai) |
 | 2 | [Virtuoso QA](https://www.virtuoso.qa) | Virtuoso QA combina NLP, RPA, AI e ML para testes de automação mais rápidos e escaláveis. | 32519 | [Link](https://www.virtuoso.qa) |
 | 3 | [SapientAI](https://www.sapient.ai) | Sapient.ai gera testes de unidade automaticamente, ajudando os desenvolvedores a se concentrarem em novos recursos. | 13921 | [Link](https://www.sapient.ai) |
@@ -797,9 +797,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Level AI](https://thelevel.ai) | Level AI é uma solução de IA para melhorar o desempenho dos funcionários de call center usando inteligência semântica. | 46558 | [Link](https://thelevel.ai) |
 | 9 | [JamGPT](https://jam.dev) | O Jam é uma eficiente ferramenta de relatório de bugs que simplifica o processo para os usuários. | 363409 | [Link](https://jam.dev) |
 | 10 | [ilovemyqa.com](https://ilovemyqa.com) | Soluções especializadas de QA para teste de software. | 6270 | [Link](https://ilovemyqa.com) |
-## Texto-para-Música
+## 63、Texto-para-Música
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Riffusion](https://www.riffusion.com) | Riffusion possibilita a difusão estável de geração de música em tempo real. | 268130 | [Link](https://www.riffusion.com) |
 | 2 | [Splashmusic](https://www.splashmusic.com) | Splash é uma plataforma de música AI inclusiva com composições originais e recursos versáteis. | 74536 | [Link](https://www.splashmusic.com) |
 | 3 | [Suno AI](https://suno.ai) | Faça música incrível com Suno AI. Não é necessário instrumento, apenas imaginação. | 29752687 | [Link](https://suno.ai) |
@@ -809,9 +809,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 7 | [Melobytes.com](https://melobytes.com) | Ferramentas criativas alimentadas por IA para exploração ilimitada de arte e música. | 282072 | [Link](https://melobytes.com) |
 | 8 | [Udio AI](https://udioai.ai?utm_source=usbot) | Crie instantaneamente músicas únicas em MP3 geradas por IA. | 183163 | [Link](https://udioai.ai?utm_source=usbot) |
 | 9 | [Udio AI ; Make your music](https://www.udio.com?utm_source=usbot) | Plataforma de criação e compartilhamento de música | 14947963 | [Link](https://www.udio.com?utm_source=usbot) |
-## Esportes
+## 64、Esportes
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [wingfield.io](https://wingfield.io) | Experiência virtual de tênis | 9725 | [Link](https://wingfield.io) |
 | 2 | [Ludex ; Sports Card and TCG Scanner with Price Guide App](https://ludex.com) | Scanner de cartão mais rápido e preciso. Identifique instantaneamente os valores do cartão. | 101816 | [Link](https://ludex.com) |
 | 3 | [Mysports.AI](https://mysports.ai) | Sua IA de previsão esportiva definitiva para apostas precisas e lucrativas. | 8573 | [Link](https://mysports.ai) |
@@ -822,9 +822,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Pixellot](https://pixellot.tv) | Câmera Esportiva Automatizada por IA, Streaming e Análise de Dados | 189166 | [Link](https://pixellot.tv) |
 | 9 | [Fight IQ](http://itunes.apple.com/app/6479872912?utm_source=usbot) | Treinamento personalizado de esportes de combate | 27365957 | [Link](http://itunes.apple.com/app/6479872912?utm_source=usbot) |
 | 10 | [Be Your Best](https://beyourbest.com) | Melhore sua visão e tomada de decisão. Eleve seu jogo. | 39006 | [Link](https://beyourbest.com) |
-## Vídeo para Vídeo
+## 65、Vídeo para Vídeo
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Cre8tiveAI](https://cre8tiveai.com) | cre8tiveAI é uma plataforma de edição de fotos que utiliza tecnologia AI para soluções rápidas e eficientes. | 228346 | [Link](https://cre8tiveai.com) |
 | 2 | [FaceMagic](https://www.facemagic.ai) | Crie facilmente vídeos de troca de rosto e reface com o FaceMagic, um aplicativo alimentado por IA que utiliza tecnologia de deepfake. | 21491 | [Link](https://www.facemagic.ai) |
 | 3 | [Domo AI](https://domoai.app) | Gerador de arte alimentado por IA | 261825 | [Link](https://domoai.app) |
@@ -835,9 +835,9 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [Magnific AI](https://magnific.ai) | Ampliador e aprimorador de IA com detalhes alucinantes. | 1113201 | [Link](https://magnific.ai) |
 | 9 | [Wannafake](https://wannafake.com) | Troque rostos em vídeos com apenas uma foto. | 103328 | [Link](https://wannafake.com) |
 | 10 | [Viggle](https://viggle.ai?utm_source=usbot) | Plataforma de geração de vídeos com compreensão de física | 6363120 | [Link](https://viggle.ai?utm_source=usbot) |
-## Imagem para Modelo 3D
+## 66、Imagem para Modelo 3D
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Tripo AI](https://www.tripo3d.ai) | Gerar ativos 3D a partir de uma única imagem instantaneamente | 201703 | [Link](https://www.tripo3d.ai) |
 | 2 | [MagiScan AI 3D Scanner app](https://magiscan.app) | Transforme qualquer coisa em 3D com seu smartphone. | 21308 | [Link](https://magiscan.app) |
 | 3 | [Lume Pad 2](https://www.leiainc.com) | A Leia Inc. oferece a tecnologia imersiva 3D•AI com o Lume Pad 2, o primeiro tablet 3D do mundo. | 47779 | [Link](https://www.leiainc.com) |
@@ -848,17 +848,17 @@ Lista de Ferramentas de IA Mais Populares por Categoria Classificada para 2024
 | 8 | [CSM](https://csm.ai) | Crie modelos de mundo 3D a partir de dados reais ou imaginação com o CSM AI. | 201136 | [Link](https://csm.ai) |
 | 9 | [Atlas 3D AI](https://atlas.design) | Gerar modelos 3D com IA | 15334 | [Link](https://atlas.design) |
 | 10 | [Alpha3D](https://alpha3d.io) | Transforme imagens 2D em ativos 3D com IA generativa. | 264035 | [Link](https://alpha3d.io) |
-## Ferramentas Divertidas
+## 67、Ferramentas Divertidas
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [ArcaneLand](https://arcane.land) | ArcaneLand: um jogo de aventura baseado em texto com várias mentes do ChatGPT, oferecendo um mundo mágico imersivo. | 6592 | [Link](https://arcane.land) |
 | 2 | [Kids ChatGPT](https://kidschatgpt.com) | Um chatbot para crianças que educa, diverte e inspira por meio de conversas. | 11881 | [Link](https://kidschatgpt.com) |
 | 3 | [Misgif: AI Generated GIFs](https://misgif.app) | Crie conteúdo personalizado com IA para seus programas favoritos! 🎉 | 85059 | [Link](https://misgif.app) |
 | 4 | [NDFY.app](https://ndfy.app) | Aplicativo alimentado por IA para nudez realista | 6504 | [Link](https://ndfy.app) |
 | 5 | [Quasi](https://quasi.market) | Plataforma alimentada por IA para criar arte, código, música, etc. | 2648 | [Link](https://quasi.market) |
-## Texto para 3D
+## 68、Texto para 3D
 |  | Ferramenta de IA | Descrição | Atenção | Site |
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [SV3D Online](https://sv3d.online) | Tecnologia 3D de próximo nível. | 2717 | [Link](https://sv3d.online) |
 | 2 | [Meshy](app.meshy.ai?via=Wenhua) | Transforme texto e imagens em ativos 3D cativantes de forma fácil. | 414851 | [Link](app.meshy.ai?via=Wenhua) |
 | 3 | [Masterpiece X - Generate](https://www.masterpiecex.com) | Criação gerativa 3D com IA em poucas palavras. | 31930 | [Link](https://www.masterpiecex.com) |
