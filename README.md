@@ -5,7 +5,7 @@ The most popular AI tools list sorted by category 2024
 
 ## AI Content Generator
 |  | AI Tool Name|Description|Hot|WebSite|
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [Akool](https://akool.com) | Personalized visual marketing powered by Generative AI. | 7062412 | [Link](https://akool.com) |
 | 2 | [CrushOn.AI](https://crushon.ai) | Unbounded conversations and authentic interactions. | 16831907 | [Link](https://crushon.ai) |
 | 3 | [DeepAI](https://deepai.org) | AI tools for creative people. | 10330334 | [Link](https://deepai.org) |
@@ -18,7 +18,7 @@ The most popular AI tools list sorted by category 2024
 | 10 | [You](https://you.com) | Control your own search engine. | 11456224 | [Link](https://you.com) |
 ## AI Advertising Assistant
 |  | AI Tool Name|Description|Hot|WebSite|
-|:----|:----|:----|:----|
+|:----|:----|:----|:----|:----|
 | 1 | [You](https://you.com) | Control your own search engine. | 11456224 | [Link](https://you.com) |
 | 2 | [VEED.IO](https://veed.io) | Free AI video editor with text to video, avatars, auto-subtitles, voice translations. | 13079858 | [Link](https://veed.io) |
 | 3 | [Shop: Your AI-Powered Shopping Assistant](https://shop.app) | AI-powered shopping assistant and mobile app for convenient and personalized online shopping. | 89740870 | [Link](https://shop.app) |
